@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<cardCategories>
+
+	<cardCategory row="0" color="000000">
+		<title>title</title>
+	</cardCategory>
+
+	<cardCategory row="1" color="860000">
+		<title>theories</title>
+	</cardCategory>
+
+	<cardCategory row="1" color="B97A03">
+		<title>methods</title>
+	</cardCategory>
+
+	<cardCategory row="2" color="5B0632">
+		<title>related</title>
+	</cardCategory>
+
+	<cardCategory row="2" color="193A32">
+		<title>examples</title>
+	</cardCategory>
+
+	<!--
+	<cardCategory>
+		<title>other</title>
+		<color>5C6E82</color>
+	</cardCategory>
+	-->
+
+</cardCategories>
