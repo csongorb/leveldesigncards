@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+
+	<!--
+		==================================
+		Instructions
+		==================================
+
+		General
+			- change "&" to "&#x26;"
+			- change "'" to "&#x27;"
+
+		Links
+			- change "(" and ")" to "%28" and "%29"
+			- if the link contains any "&" or "<" or other strange characters wrap the link inbetween
+				- "<![CDATA[" and "]]>"
+
+		Title
+			- line break: "/"
+			- filenames are generated through the first line of the title
+				- filenames must be unique!
+				- use the attribute "forcedFilename" to define unique filenames!
+	-->
+
+<cards>
+
+	<!--
+		==================================
+		Level Design / General
+		==================================
+	-->
+
+	<card>
+		<cardCategoryId>0</cardCategoryId>   <!--  defining the category by index is not very nice -->
+		<title forcedFilename="leveldesign">level design</title>
+		<text>arrange # think # discuss! # read between the cards!</text>
+		<link>http://en.wikipedia.org/wiki/Pornography</link>
+		<link>http://www.johnsto.co.uk/design/common-sense/</link>
+		<link>http://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
+		<!-- link>http://www.reachingperfection.com/p/forge-lessons.html</link -->
+		<link>http://gropingtheelephant.com/blog/?p=2310</link>
+		<link>https://twitter.com/tychobolt/status/1272578494543904771?lang=en</link> <!-- TychoBolt: In pursuit of better levels -->
+		<link><![CDATA[https://www.youtube.com/watch?v=KW4JlxAEAE0&list=PLc38fcMFcV_t6cVUpPXYnooVe1r_C0_4f]]></link> <!-- GMTK Level Design Playlist -->
+		<link>http://www.critical-distance.com/2013/10/02/the-art-of-level-design-analysis/</link>
+		<link>https://www.goodreads.com/review/list/40472585-csongor-baranyai?shelf=level-design</link>
+		<link>https://www.wikiwand.com/en/Level_design</link>
+		<link>https://en.wikipedia.org/wiki/Level_%28video_games%29</link>
+		<link><![CDATA[https://twitter.com/search?q=%28%23leveldesign%29%20%28from%3Athe_norberg%29&src=typed_query]]></link>
+		<link>https://www.blog.radiator.debacle.us/2015/06/local-level-design-and-history-future.html</link>
+	</card>
+
+	<!--
+		==================================
+		Theories / Ideas / Concepts
+		==================================
+	-->
+
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title forcedFilename="themevsmechanics">theme vs./mechanics</title>
+		<text>how are they connected? # examples? # difficulties? # classification? # organic level design?</text>
+		<link>http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html</link>
+		<link>http://www.gamasutra.com/blogs/PaulSztajer/20110609/7752/How_to_Find_your_Gameplay_Themes.php</link>
+		<link>http://en.wikipedia.org/wiki/Affordance</link>
+		<link>http://www.lostgarden.com/2011/10/triple-town-beta-now-with-bears.html</link>
+		<link>http://gamasutra.com/blogs/ChristopherTotten/20100625/87576/Mechanics_vs_Motif.php</link>
+		<link>http://www.gamasutra.com/view/feature/3709/defining_boundaries_creating_.php?print=1</link>
+		<link>https://www.youtube.com/watch?v=0S43IwBF0uM</link> <!-- The Chemical Brothers: Star Guitar -->
+		<link>https://vimeo.com/1180080</link> <!-- Aram Bartholl: Speed -->
+		<link>http://asherv.com/threes/threemails/</link>
+		<link>http://www.gamasutra.com/blogs/MichelMcBrideCharpentier/20110102/88710/Affordance_Design_in_HalfLife_2.php</link>
+		<link>http://www.gamasutra.com/view/news/193342/Practical_examples_for_marrying_theme_and_meaning.php</link>
+		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/InsurmountableWaistHeightFence</link>
+		<link>http://www.rockpapershotgun.com/2009/04/21/locked-door/</link>
+		<link>https://www.gamasutra.com/blogs/MartinNerurkar/20120711/173899/Archetypical_Spaces_Part_1.php</link>
+		<link>https://www.gamasutra.com/blogs/MartinNerurkar/20120727/174831/Archetypical_Spaces_Part_2_The_Wilderness.php</link>
+		<link>https://www.gamasutra.com/blogs/MartinNerurkar/20120918/177835/Archetypical_Spaces_Part_3_The_Maze.php</link>
+		<link>http://critical-gaming.blogspot.com/2008/07/organic-and-inorganic-design.html</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title>tutorials</title>
+		<text>what is that? # what is that for? # what schould they teach? # classification? # psychology? # evolution &#x26; actual trends? # examples? # relationship to rational level design?</text>
+		<link>http://www.youtube.com/watch?v=BCPcn-Q5nKE</link> <!-- Tutorials 101 - How to Design a Good Game Tutorial - Extra Credits -->
+		<link>http://www.gamasutra.com/view/feature/6160/tutorials_learning_to_play.php?print=1</link>
+		<link>http://www.gamasutra.com/view/feature/6406/the_designers_notebook_eight_.php?print=1</link>
+		<link>http://www.gamasutra.com/view/feature/134899/darwinian_difficulty_how_throwing_.php</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title forcedFilename="playernavigation">player/navigation</title>
+		<text>what is that? # what is that for? # how does it work? # examples? # related professions?</text>
+		<link>http://www.psychologyofgames.com/2013/09/why-do-color-coded-clues-in-level-design-work/</link>
+		<link>https://www.youtube.com/watch?v=-H97gCCJFXA</link>  <!-- Backtracking and Level Design - Making a Way Out - Extra Credits -->
+		<link>http://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
+		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<link>http://blog.joelburgess.com/2011/03/gdc-2011-transcript-motivating-players.html</link>
+		<link>https://gestalten.com/products/left-right-up-down</link>
+		<link>http://de.wikipedia.org/wiki/Signaletik</link>
+		<link>http://gangles.ca/2009/05/26/guiding-the-eye/</link>
+		<link>https://book.leveldesignbook.com/process/blockout/wayfinding</link>
+		<link>https://gdcvault.com/play/1022117/Level-Design-in-a-Day</link> <!-- Brandon Chung: Wayfinding -->
+		<link>https://www.youtube.com/watch?v=09r1B9cVEQY</link> <!-- GDC 2018 David Shaver: Blockmesh and Lighting Tips -->
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title>multiplayer</title>
+		<text>examples? # classification? # coop vs. competitive? # eSports? # replayability? # tipps?</text>
+		<!-- link>http://askagamedev.tumblr.com/post/76972636953/game-development-myths-players-want-smart</link -->
+		<!-- link>http://blogs.wefrag.com/channie/2010/02/28/deconstructing-favela-part-i/</link -->
+	 	<!-- link>http://www.vanillatf2.org/2012/07/a-look-into-competitive-level-design-pt-1/</link -->
+		<link>https://www.gdcvault.com/play/1021868/Community-Level-Design-for-Competitive</link>
+		<link>http://www.raphkoster.com/wp-content/uploads/2011/02/Koster_Social_Social-mechanics_GDC2011.pdf</link>
+		<!-- link>http://localmultiplayer.com/</link -->
+		<link>https://itch.io/games/local-multiplayer</link>
+		<link>https://store.steampowered.com/tags/en/Local+Multiplayer</link>
+		<link>https://gdcvault.com/play/1024955/Game-Design-Patterns-for-Building</link>
+		<link>http://bobbyross.com/blog/2014/6/29/the-visual-guide-for-multiplayer-level-design</link>
+		<link>https://gdcvault.com/play/1024304/Level-Design-Workshop-Singleplayer-vs</link>
+		<link>https://gdcvault.com/play/1025183/Level-Design-Workshop-The-Holy</link>
+		<link>http://polyculture.co/polyculture/cdg/</link>
+		<link>http://www.benb-design.net/Articles/benb_article02.pdf</link> <!-- Benjamin Bauer -->
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title forcedFilename="gamevsleveldesign">game vs./level design</title>
+		<text>how are they connected / separated? # what is game design providing? # what does level design work with? # examples? # history? # the definition of level design? # how do they interact?</text>
+		<link>http://www.worch.com/files/gdc/igda_sf_mworch_web.pdf</link>
+		<link>texts/Gregory_GEngineArchitecture_DataDrivenDesign.pdf</link>
+		<link>http://www.gamasutra.com/blogs/MartinNerurkar/20090828/2861/Level_Design_is_Game_Design.php</link>
+		<link>https://www.rockpapershotgun.com/2017/03/24/how-hitmans-hokkaido-level-was-made/</link>
+		<link>http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/laws-of-the-game/law/newsid=1285960.html</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title>mental maps</title>
+		<text>selftest? # examples? # chunking &#x26; grokking? # how do they emerge? # what are they for? # related professions? # abstract spaces?</text>
+		<link>https://books.google.de/books?id=_phRPWsSpAgC</link> <!-- Kevin Lynch: The Image of the City -->
+		<link>http://mapstalgia.tumblr.com/</link>
+		<link>http://www.was-schafft-raum.at/projekte_m1.htm</link>
+		<link>http://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
+		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<link>http://www.slideshare.net/resmini/game-design-lecture-2-15128133</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title>experience/as story</title>
+		<text>tell? show? let do? # experience as story? # in other media? # the active viewer? # examples?</text>
+		<link>texts/Bordwell_TheViewersActivity.pdf</link>
+		<link>http://www.gamasutra.com/blogs/MatthewJenkin/20160211/265635/Better_Game_Stories_In_One_Step.php</link>
+		<link>https://www.theatlantic.com/technology/archive/2017/04/video-games-stories/524148/</link>
+		<link>https://www.gamasutra.com/blogs/SjorsJansen/20131014/202319/Street_Fighter_is_one_of_the_greatest_story_telling_games.php</link>
+		<link>http://polyneux.de/2013/01/04/zufallsgeschichten-minecraft/</link>
+		<link>http://www.polygon.com/2016/4/5/11346848/the-true-history-of-eve-online-empires-of-eve-andrew-groen</link>
+		<link>https://prezi.com/3wxapjl33ga2/experienceasprinciple_160114/</link>
+		<link>http://gamedesignreviews.com/reviews/sword-of-mana-do-dont-show/</link>
+		<link>http://www.lhn.uni-hamburg.de/article/telling-vs-showing</link>
+		<link>http://gdcvault.com/play/1023503/THE-GAME-DESIGN-CHALLENGE-The</link>
+		<link>https://dwarffortresswiki.org/index.php/Dwarf_Fortress_webcomics</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title forcedFilename="evolutionofstoryworlds">evolution of/storyworlds</title>
+		<text>evolution? # media history &#x26; media studies? # examples? # why are there so many storyworlds? # are there so many storyworlds? # connection to games? # literacy?</text>
+		<link>https://kotaku.com/manifesto-the-21st-century-will-be-defined-by-games-1275355204</link>
+		<link>https://books.google.de/books?id=RlRVNikT06YC</link> <!-- Henry Jenkins: Convergence Culture -->
+		<link>http://www.bogost.com/blog/on_the_manifesto_for_a_ludic_c.shtml</link>
+		<!-- link>http://gamingvulture.com/2013/09/12/shouldnt-i-be-playing-the-manifesto-for-a-ludic-century/</link -->
+		<link>http://www.amazon.de/Building-Imaginary-Worlds-History-Subcreation/dp/0415631203</link>
+		<link>texts/freyermuth_transmedia_twelfepostulates_1to6.pdf</link>
+		<link>http://www.worch.com/2013/04/24/talking-to-the-player-how-cultural-currents-shape-and-level-design/</link>
+		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+	</card>
+	<card>
+		<cardCategoryId>1</cardCategoryId>
+		<title>analytic drama</title>
+		<text>structure? # two stories? # examples? # stuctural similarities to?</text>
+		<link>https://archive.org/details/cu31924026208052</link> <!-- Thomas Moody Campbell: Hebbel, Ibsen and the analytical exposition -->
+		<link>texts/kaiserstutterheim_deranalytischefilm.pdf</link>
+		<link>http://dradiowissen.de/beitrag/archeogames-als-archaeologe-spielwelten-erforschen</link>
+		<link>http://de.wikipedia.org/wiki/Analytisches_Drama</link>
+	</card>
+
+	<!--
+		==================================
+		Methods
+		==================================
+	-->
+
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="scriptstriggersevents">scripts,/triggers &#x26; events</title>
+		<text>what is a trigger? # how does it structure the story? # history? # actual developments? # classification?</text>
+		<link>https://docs.unity3d.com/Documentation/ScriptReference/Collider.OnTriggerEnter.html</link>
+		<link>http://www.worldofleveldesign.com/categories/wold-members-tutorials/petebottomley/udk-moving-doors.php</link>
+		<link>https://www.wikiwand.com/en/Scripted_sequence</link>
+		<link>texts/Winterstetter_BA_TriggerBasedScripting.pdf</link>
+		<link>http://www.csd.uwo.ca/~katchab/pubs/gameonna2008_storytelling.pdf</link>
+		<link>https://www.youtube.com/watch?v=2C-cIE7P1EE</link> <!-- Tommy Norberg: Understanding a LOOK AT system -->
+		<link>http://www.gdcvault.com/play/1022116/Level-Design-in-a-Day</link> <!-- Forrest Downling: Using LD Tools Expressively -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="modularld">modular/level design</title>
+		<text>what is this? # pros and cons? # workflow? # examples? # relationship to procedurality?</text>
+		<link>http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html</link>
+		<link>https://gdcvault.com/play/1023202/-Fallout-4-s-Modular</link>
+		<link>http://wiki.polycount.com/wiki/Modular_environments</link>
+		<link>http://udn.epicgames.com/Three/ModularLevelDesign.html</link>
+		<link>http://www.gamasutra.com/view/feature/2475/creating_modular_game_art_for_fast_.php</link>
+		<link>https://shop.carrera-toys.com/startseite/?shp=4</link>
+		<link>http://www.mack-rides.com/</link>
+		<link>http://davesmapper.com/</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="proceduralld">procedural/level design</title>
+		<text>what is that? # pros and cons? # how does it work? # examples? # relationship to modularity? # during development or at runtime? # content or gameplay? # the ideas behind the algorithms?</text>
+		<link>http://en.wikipedia.org/wiki/Procedural_generation</link>
+	 	<link>http://www.gamecareerguide.com/features/336/procedural_content_.php?print=1</link>
+		<link>http://davesmapper.com/</link>
+		<link>https://www.wikiwand.com/en/Houdini_(software)</link>
+		<link>http://www.gamasutra.com/view/feature/170049/how_to_make_insane_procedural_.php?print=1</link>
+	 	<link>https://indienova.com/u/root/blogread/1766</link> <!-- Nuclear Throne LD Generation -->
+		<link>https://www.gamasutra.com/blogs/CalebCompton/20210301/377992/How_Minecraft_Generates_Massive_Virtual_Worlds_from_Scratch.php</link>
+		<link>https://gdcvault.com/play/1025181/Level-Design-Workshop-Procedural-Regeneration</link>
+		<link>https://gdcvault.com/play/1024213/Practical-Procedural-Generation-for</link>
+		<link>http://www.gamasutra.com/blogs/ScottMacLean/20130427/191372/Puzzle_Design_in_Last_Train_to_Timbuktu_Difficulty_Levels.php</link>
+		<link>http://www.gamedev.net/blog/33/entry-2227887-more-on-minecraft-type-world-gen/</link>
+		<link>http://tinysubversions.com/2013/10/spelunky-generator-lessons-part-2-room-generation/</link>
+		<link>https://www.youtube.com/watch?v=Uqk5Zf0tw3o</link> <!-- GMTK: Spelunky Level Generation -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="rationalld">rational/level design</title>
+		<text>what is that? # what is that for? # analysis &#x26; rhythm? # emergence? # how deep is your gameplay? # examples? # classification? # relation to metrics?</text>
+		<link>http://www.gamasutra.com/blogs/LarsDoucet/20100304/4562/Practical_Game_Design__The_Rule_of_Threes.php</link>
+		<link>https://w.itch.io/level-design-lessons</link>
+		<link>http://www.spectrum-game.com/portfolio-Cyril_Ramade/Cyril%20Ramade_Level%20Design%20-%20Astray.pdf</link>
+		<link>http://www.gamasutra.com/view/feature/167214/rational_design_the_core_of_.php?print=1</link>
+		<link>https://gdcvault.com/play/1020398/Rayman-Legends-The-Design-Process</link>
+		<link>http://www.gamasutra.com/blogs/LukeMcMillan/20130806/197147/The_Rational_Design_Handbook_An_Intro_to_RLD.php</link>
+		<link>http://www.jesperjuul.net/artoffailure/</link>
+		<link>https://alexandervonanhalt.com/Ooze/</link> <!-- Alexander von Anhalt: Rational Level Design -->
+		<link>https://www.youtube.com/watch?v=ZH2wGpEZVgE</link> <!-- Extra Credits Design Club: Super Mario Bros: Level 1-1 -->
+		<link>https://www.youtube.com/watch?v=x3y7CIfCI7E</link> <!-- Patrick Holleman: Cadences: Finding the Voice of Any Level's Design -->
+		<link>https://slideplayer.com/slide/12246767/</link> <!-- Jason Wiser: Level Design 1: Rational Game Design -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>metrics</title>
+		<text>what is that? # what is that for? # examples? # classification? # relation to other topics?</text>
+		<link>https://book.leveldesignbook.com/process/blockout/metrics</link>
+		<link>http://www.gamasutra.com/view/feature/176933/the_metrics_of_space_tactical_.php?print=1</link>
+		<link>http://www.gamasutra.com/view/feature/134845/a_rational_approach_to_racing_game_.php?print=1</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>analytics</title>
+		<text>what is that? # what is that for? # vs. intuition? # examples? # tipps?</text>
+		<link>http://www.gamasutra.com/view/feature/6155/hot_failure_tuning_gameplay_with_.php?print=1</link>
+		<link>http://twvideo01.ubm-us.net/o1/vault/gdc2012/slides/Design%20Track/Voinov_Semyon_Level_Design_Casestudies.pdf</link>
+		<link>http://www.klonk-games.de/de/2013/07/level-design-analysis-heatmaps/</link>
+		<link>https://www.gamasutra.com/blogs/MaxKnoblich/20130214/186575/Using_Heat_Maps_To_Improve_Track_Design.php</link>
+		<link>http://andersdrachen.files.wordpress.com/2012/08/gamedatamining_intro.pdf</link>
+		<link>http://www.gamasutra.com/blogs/JonathanDankoff/20140320/213624/Game_Telemetry_with_DNA_Tracking_on_Assassins_Creed.php</link>
+		<link>http://www.lostgarden.com/2009/08/flash-love-letter-2009-part-2.html</link>
+		<link>http://www.youtube.com/watch?v=nqGcXOksFGg</link> <!-- Metrics - The Danger of Data-Driven Game Design - Extra Credits -->
+		<link>http://www.gdcvault.com/play/1012227/Development-Telemetry-in-Video-Games</link>
+		<link>https://gdcvault.com/play/1015572/Why-Designers-Should-Care-About</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="movingperspective">moving/perspective</title>
+		<text>what is that? # what is that for? # relationship to camera &#x26; movement? # mise en scene &#x26; interactivity? # classification? # examples?</text>
+		<link>https://www.wikiwand.com/en/Mise-en-sc%C3%A8ne</link>
+		<link>https://www.youtube.com/watch?v=CvLQJReDhic</link> <!-- Channel Criswell: Composition In Storytelling -->
+		<link>http://www.gamasutra.com/blogs/JeromeBodin/20160126/264355/Navigation_Nodes_in_3D_Level_Design.php</link>
+		<link>https://www.youtube.com/watch?v=ed2zmmcEryw</link> <!-- Manifold Garden: Level Design in Impossible Geometry -->
+		<link>https://www.youtube.com/watch?v=3euNFd7-TCg</link> <!-- StudioBinder: What is Mise en Scene -->
+		<link>https://gdcvault.com/play/1020596/Scenography-of-Kentucky-Route</link>
+		<link>https://mubi.com/lists/aspects-of-mise-en-scene-film-art-an-introduction-by-david-bordwell-and-kristin-thompson</link>
+		<link>https://www.youtube.com/watch?v=L27Qb20AYmc</link> <!-- GDC19 Environment Design as Spatial Cinematography: Theory and Practice -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>space</title>
+		<text>are games spacial? # where is the camera? # classification? # theories?</text>
+		<link>https://en.wikipedia.org/wiki/Euclidean_space</link>
+		<link>https://www.transcript-verlag.de/978-3-8376-3972-8/raum/</link>
+		<link>texts/guenzel_raum_einleitung.pdf</link>
+		<link>https://en.wikipedia.org/wiki/Space</link>
+		<link>http://www.gamasutra.com/blogs/MateuszPiaskiewicz/20140817/223513/Composition_in_Level_Design.php</link>
+		<link>http://narrativedesignporn.csongorb.com/atmosphere.html</link>
+		<link>texts/deWinter_Miyamoto_SpacialNarratives.pdf</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="goalsandgameplayloops">goals &#x26;/gameplay loops</title>
+		<text>classification? # integration of goals &#x26; gameplay loops into levels? # goal structures? # foreshadowing? # open world? # examples?</text>
+		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-2-level-designers-core-space-creation-and-level-flow-matthias-worch-senior-level-designer-visceral-games</link>
+		<link>http://blog.joelburgess.com/2011/03/gdc-2011-transcript-motivating-players.html</link>
+		<link>http://www.dashjump.com/cpr-design/</link>
+		<link>http://www.jesperjuul.net/text/withoutagoal/</link>
+		<link>https://www.tommynorberg.com/post/bait-and-switch</link>
+		<link>https://www.researchgate.net/publication/310480261_The_Gameplay_Loop_a_Player_Activity_Model_for_Game_Design_and_Analysis</link> <!-- Emmanuel Guardiola -->
+		<link>https://www.youtube.com/watch?v=HqcLghafPXY</link> <!-- The Power of Incentives - How Games Help Us Examine Our World - Extra Credits -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>gating</title>
+		<text>what is that? # what is that for? # classification? # examples?</text>
+		<link>https://technicalgamedesign.blogspot.de/2011/04/gating.html</link>
+		<link>http://shaunspalding.co.uk/gating-in-level-design/</link>
+		<link>https://twitter.com/the_Norberg/status/1320105523379929094</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>modding</title>
+		<text>what is that? # classification? # what can be changed &#x26; edited? # history? # modding vs. level design? # examples? # history? # tools?</text>
+		<link>http://de.wikipedia.org/wiki/Mod_%28Computerspiel%29</link>
+		<link>http://en.wikipedia.org/wiki/Mod_%28video_gaming%29</link>
+		<link>texts/Gregory_GEngineArchitecture_DataDrivenDesign.pdf</link>
+		<link>https://en.wikipedia.org/wiki/Doom_modding</link>
+		<link>https://www.doomworld.com/25years/the-roots-of-doom-mapping/index/</link>
+		<link>http://www.rockpapershotgun.com/2012/09/21/a-peoples-history-of-the-fps-part-3-the-postmod/</link>
+		<link>http://www.gdcvault.com/play/1022107/Level-Design-in-a-Day</link> <!-- Joel Burgess: How Modding Made Bethesda Better -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title forcedFilename="storyworldsandbibles">storyworlds &#x26;/storybibles</title>
+		<text>what defines a storyworld? # what is in a storyworld? # classification? # story vs. world? # documents and their structure? # examples?</text>
+		<link>http://guyhasson.wordpress.com/2011/06/20/story-design-tips-5-articles-about-world-building/</link>
+		<link>http://en.wikipedia.org/wiki/Worldbuilding</link>
+		<link>http://en.wikipedia.org/wiki/Bible_%28writing%29</link>
+		<link>https://joergihle.de/presse/innomedien/</link>
+		<link>http://www.amazon.de/Building-Imaginary-Worlds-History-Subcreation/dp/0415631203</link>
+		<link>http://en.wikipedia.org/wiki/Fictional_universe</link>
+		<link>https://en.wikipedia.org/wiki/Na%27vi_language</link>
+		<link>http://www.zamonien.de/lexikon.php</link>
+		<link>https://prezi.com/_mtgi7uv_49c/storyworlds_160204/</link>
+		<link>https://www.gamasutra.com/view/news/352517/Building_a_basic_story_bible_for_your_game.php</link>
+		<link>https://www.instituteforwriters.com/worldbuilding-bible.aspx</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>open worlds</title>
+		<text>how is the world structuring the experience? # what kind of experiences are possible? # what genre? # how to avoid backtracking? # examples? # history?</text>
+		<link>http://www.gamasutra.com/view/news/268274/In_open_world_game_design_curiosity_is_key_says_Bethesdas_Todd_Howard.php</link>
+		<link>https://killscreen.com/articles/umberto-eco-and-his-legacy-in-open-world-games/</link>
+		<link>https://www.wikiwand.com/en/Development_of_Grand_Theft_Auto_V#/Research_and_open_world_design</link>
+		<link>http://www.gamasutra.com/view/feature/1454/clint_hocking_speaks_out_on_the_.php</link>
+		<link>https://www.youtube.com/watch?v=udF7XX_vTUE</link> <!-- Extra Credits: Open World Design -->
+		<link>https://en.wikipedia.org/wiki/Metroidvania</link>
+		<link>https://www.youtube.com/watch?v=084BUNlI7Gk</link> <!-- GMTK: Sequence Breaking with Toki Tori 2 | Making Metroidvanias -->
+		<link>https://www.youtube.com/watch?v=USVr936aKzs</link> <!-- GMTK: Deus Ex: Mankind Divided's Amazing Open World -->
+		<link>https://gamedevlibrary.com/lets-take-a-look-at-the-four-types-of-exploration-in-game-design-ac9d6a679304</link>
+		<link>https://gdcvault.com/play/1026613/Independent-Games-Summit-Crafting-A</link> <!-- A Short Hike Post Mortem -->
+		<link>https://www.youtube.com/watch?v=-H97gCCJFXA</link> <!-- Backtracking and Level Design - Making a Way Out - Extra Credits -->
+		<link>https://www.youtube.com/watch?v=FE7lDFAcb4Y</link> <!-- Exploration in Games - Four Ways Players Discover Joy - Extra Credits -->
+		<link>https://www.youtube.com/watch?v=7ITtPPE-pXE</link> <!-- GMTK: Hollow Knight World Design -->
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>process</title>
+		<text>workflows? # processes? # tools? # professions?</text>
+		<link>https://twitter.com/hashtag/blocktober</link>
+		<link>https://www.gamasutra.com/blogs/HuguesBarlet/20140907/225061/Block_design_in_level_design.php</link>
+		<link>https://www.gamasutra.com/blogs/SaraCasen/20160713/276970/White_Boxing_Your_Game.php</link>
+		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/how_to_plan_your_next_map/how_to_plan_your_next_map.php</link>
+		<link>http://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
+		<link>https://www.youtube.com/watch?v=PhW8CY8XkFg</link> <!-- Joel Burgess - GDC 2014: How We Used Iterative Level Design to Ship Skyrim and Fallout 3 -->
+		<link>http://www.gamasutra.com/view/feature/131257/an_architects_perspective_on_.php?print=1</link>
+		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-5-production-the-thrilling-world-of-workflow-forrest-dowling-lead-multiplayer-level-designer-kaos-studios-thq-inc</link>
+		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-3-tools-making-a-better-game-jim-brown-lead-level-designer-epic-games</link>
+	</card>
+	<card>
+		<cardCategoryId>2</cardCategoryId>
+		<title>environmental/storytelling</title>
+		<text>what is environmental storytelling? # spacial information distribution? # the whole is more than the sum of it&#x27;s parts? # classification? # methods &#x26; theories? # examples? # pattern recognition &#x26; causality? # interpretation &#x26; misinterpretation?</text>
+		<link>http://www.worch.com/2010/03/11/gdc-2010/</link>
+		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<!-- link>https://www.gamasutra.com/view/news/293930/7_works_of_interactive_fiction_that_every_developer_should_study.php</link -->
+		<!-- link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-6-level-designer-storyteller-joel-burgess-senior-designer-bethesda-game-studios</link -->
+		<link><![CDATA[http://web.mit.edu/~21fms/People/henry3/games&narrative.html]]></link> <!-- Narrative Architecture -->
+		<link>http://scalar.usc.edu/works/interactive-storytelling-narrative-techniques-and-methods-in-video-games/environmental-storytelling</link>
+		<link>http://www.paidia.de/?p=4027</link> <!-- Die Narration der Dinge Teil II – Environmental Storytelling -->
+		<link>https://emshort.blog/2014/01/09/reading-and-hypothesis/</link>
+		<link>https://frictionalgames.blogspot.de/2013/07/thoughts-on-last-of-us.html</link>
+		<!-- link>http://notgames.org/blog/2010/03/19/not-a-manifesto/</link -->
+		<link>http://pixeldiskurs.de/2016/11/06/pixeldiskurs-podcast-20-walking-simulator-wie-werden-wir-den-begriff-wieder-los/</link>
+		<link>http://www.gamasutra.com/view/news/251191/How_walking_simulators_allow_us_to_touch_other_worlds.php</link>
+		<link>http://www.electrondance.com/screw-your-walking-simulators/</link>
+		<link>https://gdcvault.com/play/1022112/Level-Design-in-a-Day</link> <!-- LD of Gone Home -->
+		<link>https://www.youtube.com/watch?v=RwlnCn2EB9o</link> <!-- GMTK: How Level Design Can Tell a Story -->
+		<link>https://public.wsu.edu/~delahoyd/20th/robbe.html</link> <!-- Dr. Michael Delahoyde: Robbe-Grillet: Jealousy -->
+		<link>http://www.digra.org/digital-library/publications/game-spaces-speak-volumes-indexical-storytelling/</link> <!-- Fernández-Vara Clara -->
+		<link>https://www.gdcvault.com/play/1016566/Environmental-Storytelling-Indices-and-the</link> <!-- GDC 2012: Fernández-Vara Clara -->
+	</card>
+
+	<!--
+		==================================
+		Related Disciplines
+		==================================
+	-->
+
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>puzzle design</title>
+		<text>relation to games? # relation to level design? # how to? # tipps? # examples?</text>
+		<link>https://www.youtube.com/watch?v=zsjC6fa_YBg</link> <!-- GMTK: Puzzle Design -->
+		<link>https://scottkim.com/</link>
+		<link>https://www.gdcvault.com/play/1023549/Level-Design-Workshop-Solving-Puzzle</link> <!-- GDC 2016 Jolie Menzel -->
+		<link>https://mtnphil.wordpress.com/2016/09/13/adventure-game-puzzle-design/</link>
+		<link>https://www.gamasutra.com/blogs/JoshBycer/20200924/370708/The_Philosophy_of_Puzzle_Design.php</link>
+		<link>https://www.janko.at/Raetsel/Naoki/index.htm</link>
+		<link>http://gapdjournal.com/issues/</link>
+		<link>https://www.gdcvault.com/play/1017978/The-Arcane-Art-of-Puzzle</link> <!-- Noah Falstein -->
+		<link>https://www.gamasutra.com/blogs/JoshuaWeinberg/20160502/270103/Puzzle_Dependency_Graph_Primer.php</link>
+		<link>http://devmag.org.za/2011/04/16/how-are-puzzle-games-designed-introduction/</link>
+		<link>https://irp-cdn.multiscreensite.com/5c6640cb/files/uploaded/100AddictivePuzzlestoSolveTheOriginalAreaMazes.pdf</link>
+		<link>https://www.youtube.com/watch?v=zsjC6fa_YBg</link> <!-- GMTK: What Makes a Good Puzzle? -->
+		<link>https://www.youtube.com/watch?v=7zLwa4bztWs</link> <!-- GMTK: How Baba Is You Works | GMTK Most Innovative 2019 -->
+		<link>https://www.youtube.com/watch?v=hCOHjTX4GYE</link> <!-- The Game Overanalyser: The Art of Puzzle Design | How Game Designers Explore Ideas and Themes with Puzzles and Problems -->
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>tool design</title>
+		<text>function? # why so helpful? # level editors? # tipps? # examples? # internal or external? # history? # connection to modding?</text>
+		<link>http://www.shikadi.net/keenwiki/Changing_the_World_/_Editing_Keen_with_TED</link>
+		<link>http://www.shikadi.net/keenwiki/TED5</link>
+		<link>http://www.gdcvault.com/play/1023765/The-Early-Days-of-id</link>
+		<link>http://www.gamasutra.com/blogs/DavidLightbown/20170223/289955/Classic_Tools_Retrospective_John_Romero_talks_about_creating_TEd_the_tile_editor_that_shipped_over_30_games.php</link>
+		<link>https://gamedevelopment.tutsplus.com/articles/make-your-life-easier-build-a-level-editor--gamedev-356</link>
+		<link>https://www.wikiwand.com/en/Level_editor</link>
+		<link>https://www.youtube.com/watch?v=brByJ5EVBn4</link> <!-- Robin-Yann Strom: Keeping LDesigners in the Zone Through Level Editor Design -->
+		<link>http://www.gamasutra.com/view/feature/131850/designing_design_tools.php</link>
+		<link>http://www.gdcvault.com/play/1019273/The-User-Experience-of-Game</link> <!-- David Lightbown -->
+		<link>http://www.gdcvault.com/play/1023377/Tech</link> <!-- Tech Toolbox GDC 2016 -->
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>theme park/design</title>
+		<text>how are theme parks communicating? # how is it connected to level design? # examples?</text>
+		<link>http://www.gamasutra.com/view/feature/3186/environmental_storytelling_.php?print=1</link>
+		<link>http://www.gamasutra.com/view/feature/3185/environmental_storytelling_part_.php?print=1</link>
+		<link>http://archive.wired.com/wired/archive/14.04/disney_pr.html</link>
+		<link>http://gdcvault.com/play/1305/Everything-I-Learned-About-Level</link>
+		<link>http://mrbossdesign.blogspot.de/2009/03/everything-i-learned-about-game-design.html</link>
+		<link>http://passport2dreams.blogspot.com/2010/12/third-queue.html</link>
+		<link>http://en.wikipedia.org/wiki/Queue_area</link>
+		<link>https://boingboing.net/2016/01/21/a-peek-into-disneylands-dead.html</link>
+		<link>https://headgum.com/the-jeff-rubin-jeff-rubin-show/international-theme-parks-explored</link>
+		<link>https://themedenvironments.blogspot.com/2021/03/theme-park-101-ten-principles-of.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="cognitivemodeling">cognitive/modeling</title>
+		<text>what is that? # relationship to games? # what does the player think about the game? # is the game real?</text>
+		<link>http://bedenk.de/sign/player-game-designer/</link>
+		<link><![CDATA[https://www.youtube.com/watch?v=pAOyWFOFhsg&list=PLAwxTw4SYaPlr4Uq3RoYuwlDADp0WQdGl&index=30]]></link> <!-- Don Norman: Introduction to Conceptual Models -->
+		<link>http://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php?print=1</link>
+		<link>https://www.raphkoster.com/2012/01/24/an-atomic-theory-of-fun-game-design/</link>
+		<link>https://en.wikipedia.org/wiki/Constructivism_%28philosophy_of_science%29</link>
+		<link>https://en.wikipedia.org/wiki/Solipsism</link>
+		<link>http://interfacedesigncards.csongorb.com/conceptualmodel.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="visualperception">visual/perception</title>
+		<text>what is that? # relationship to games?</text>
+		<link>https://www.youtube.com/watch?v=c1qdyszaeTU</link> <!-- Extra Credits: Gestalt -->
+		<link>https://www.gamasutra.com/blogs/SitaVriend/20170828/304420/Game_design_and_Gestalt_laws.php</link>
+		<link>https://www.gamasutra.com/view/feature/3097/its_all_in_your_mind_visual_.php?print=1</link> <!-- Hayden Duvall -->
+		<link>https://en.wikipedia.org/wiki/Visual_perception</link>
+		<link>https://interfacedesigncards.csongorb.com/perception.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="architectureurbanplanning">architecture &#x26;/urban planning</title>
+		<text>signage? # the story of the city? # environmental storytelling? # examples? # other analogies? # abstract places?</text>
+		<link>http://www.gamasutra.com/view/feature/2943/designers_notebook_the_role_of_.php?print=1</link>
+   		<link>http://www.gamasutra.com/blogs/ChristopherTotten/20100611/5352/Towards_a_Digital_Architecture.php</link>
+		<link>https://gdcvault.com/play/1025176/Level-Design-Workshop-An-Architectural</link> <!-- Christopher Totten -->
+   		<link>https://books.google.de/books?id=pZ50MeEQRAoC</link> <!-- Rasmussen: Experiencing Architecture -->
+   		<link>http://www.heise.de/tp/artikel/23/23589/1.html</link>
+		<link>http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470057440.html</link>
+		<link>https://gdcvault.com/play/1023554/Level-Design-Workshop-Architecture-in</link> <!-- ...in Level Design (Claire Hosking) -->
+		<link>https://gdcvault.com/play/1025311/World-Building-with</link> <!-- ...with Architecture (Sarah Bonser) -->
+		<link>http://gamasutra.com/blogs/KonstantinosDimopoulos/20160225/266660/Game_Cities_Five_Essential_Books.php</link>
+		<link>https://gamasutra.com/blogs/KonstantinosDimopoulos/20170831/304756/Urban_Design_and_the_Creation_of_Videogame_Cities.php</link>
+		<link>https://www.game-cities.com/articles-talks</link>
+		<link>http://www.alphr.com/games/1002937/from-dark-souls-to-manifold-garden-how-games-tell-stories-through-architecture</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>achievements</title>
+		<text>what is this? # classification? # additional objectives? # intrinsic vs. extrinsic motivation? # gamification? # examples? # history?</text>
+		<link>http://www.youtube.com/watch?v=hFM4eIAou5M</link> <!-- Achievements - Creating a Meaningful Meta-Game - Extra Credits -->
+		<link>http://www.gamasutra.com/view/feature/6388/the_cake_is_not_a_lie_how_to_.php?print=1</link>
+		<link>http://gamestudies.org/1101/articles/jakobsson</link>
+		<link>http://www.gamecareerguide.com/features/649/results_from_the_game_design_.php?print=1</link>
+		<link>http://www.gamasutra.com/blogs/JoshBycer/20100803/5693/The_right_kind_of_carrot.php</link>
+		<link>https://www.critical-distance.com/2010/04/21/jesse-schell-design-outside-the-box/</link>
+		<link>http://codingconduct.cc/9-5-Theses-on-Gamification</link>
+		<link>https://celestegame.fandom.com/wiki/Collectibles</link>
+		<link>https://gdcvault.com/play/1018089/Designing-Compelling-Achievements</link>
+		<link>https://www.youtube.com/watch?v=c2CLO8CcBjg</link> <!-- GMTK: Are Lives Outdated Game Design? -->
+		<link>http://gamification-research.org/2011/09/gamification-by-design-response-to-zichermann/</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>playground/design</title>
+		<text>open world? # consideration of skills? # cooperation &#x26; competition? # what are the mechanics? # examples? # toy vs. game?</text>
+		<link>http://www.beltzig-playdesign.de/indexd.html</link>
+		<link>http://www.designingforplay.blogspot.de/</link>
+		<link>http://www.corvus-design.com/category/design-with-play/</link>
+		<link>http://www.play-scapes.com/</link>
+		<link>http://www.play-scapes.com/play-design/contemporary-design/woodthorpe-grange-playground-keita-takahashi-nottingham-uk-proposed/</link>
+		<link>http://www.blog.radiator.debacle.us/2013/03/course-catalog-at-radiator-university.html</link>
+		<link>https://www.google.de/search?q=skate+park+design</link>
+		<link>http://architekturfuerkinder.ch/</link>
+		<link>https://www.deepfun.com/articles/</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="museumplanning">museum/planning</title>
+		<text>related issues? # achievements? # indexical storytelling? # guidance system? # history? # relation to games? # examples?</text>
+		<link>http://www.transcript-verlag.de/978-3-89942-814-8/museumsanalyse?c=746</link>
+		<link>http://www.transcript-verlag.de/978-3-8376-1600-2/die-ausstellung-als-drama?c=134</link>
+		<link>http://www.transcript-verlag.de/978-3-89942-192-7/medium-ausstellung?c=746</link>
+		<link>http://de.wikipedia.org/wiki/Museumsp%C3%A4dagogik</link>
+		<link>https://en.wikipedia.org/wiki/Museum_education</link>
+		<link>http://www.deutsches-museum.de/verlag/aus-der-forschung/pus/</link>
+		<link>http://smithsonianquests.org/</link>
+		<link>https://killscreen.com/articles/game-design-ikea/</link>
+		<link>http://fallout.wikia.com/wiki/Museum_of_Technology</link>
+		<link>https://www.polygon.com/2021/1/24/22244838/video-game-museums-the-last-of-us-miles-morales</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>transmedia</title>
+		<text>what is transmedia? # definition? # classification? # examples? # related issues? # how is transmedia communicating? # what kind of stories are possible? # relation to games?</text>
+		<link>http://en.wikipedia.org/wiki/Transmedia_storytelling</link>
+		<!-- link>http://interactivemedia.filmschule.de/post/42428394892/transmedia-literaturempfehlungen</link -->
+		<link>https://prezi.com/9uh_7mie9u60/transmedia/</link>
+		<link>https://www.goodreads.com/review/list/40472585-csongor-baranyai?shelf=transmedia</link>
+		<link>http://henryjenkins.org/blog/2007/03/transmedia_storytelling_101.html</link>
+		<link>http://henryjenkins.org/blog/2011/08/defining_transmedia_further_re.html</link>
+		<link>http://www.davidbordwell.net/blog/2009/08/19/now-leaving-from-platform-1/</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>game writing</title>
+		<text>relation to level design? # responsibilities? # quest design? # workflows? # experience as narrative? # is the relationship between level and game design similar the relationship between game writing and narrative design? # examples? # actual trends?</text>
+		<link>http://gamewriting.org/</link> <!-- IGDA chapter -->
+		<link>https://www.youtube.com/watch?v=KG1ziCvLkJ0</link> <!-- Extra Credits: Bad Writing -->
+		<!-- link>http://digitalnarratives.filmschule.de/post/116989307186/writingliteratur</link -->
+		<link>http://www.gamasutra.com/view/news/265389/Writing_Firewatch_and_capturing_the_beauty_of_being_alone.php</link>
+		<link>https://www.youtube.com/watch?v=UswwuR4_I4E</link> <!-- Firewatch Writing Q&A with Sean Vanaman -->
+		<link>http://www.gamasutra.com/view/feature/132327/the_gamasutra_20_top_game_writers.php?print=1</link>
+		<link>https://www.gamasutra.com/blogs/GabrielPadinha/20210304/378128/Leading_a_game_writers_room.php</link>
+		<link>https://www.gamasutra.com/view/feature/134542/a_practical_guide_to_game_writing.php?print=1</link>
+		<link>https://www.idlethumbs.net/tonecontrol/episodes/tom-bissell</link>
+		<link>http://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
+		<link>http://www.worch.com/2012/03/12/player-stories-and-designer-stories-download/</link>
+		<link>http://gropingtheelephant.com/blog/?p=1889</link>
+		<link>https://gdcvault.com/play/1025314/Writing-and-Narrative-Design-A</link>
+		<link>http://narrativedesignporn.csongorb.com/gamewriting.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="worldbuilding">worldbuilding</title>
+		<text>what is worldbuilding? # vs. game art? # responsibilities? # workflows? # history? # why are there so many worlds?</text>
+		<link>https://blog.thimbleweedpark.com/character_sheet</link>
+		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+		<link>http://gdcvault.com/play/1023556/Level-Design-Workshop-Building-Firewatch</link>
+		<link>http://gdcvault.com/play/1023191/Making-the-World-of</link> <!-- Jane Ng: ...Firewatch -->
+		<link>https://www.wikiwand.com/en/Fashion_design</link>
+		<link>http://www.peachpit.com/articles/article.aspx?p=1398008</link> <!-- Ernest Adams: Game Worlds -->
+		<link>http://narrativedesignporn.csongorb.com</link>
+		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+		<link>https://www.youtube.com/watch?v=mA6MQHNM2yE</link> <!-- Nerdwriter1: Middle Earth and The Perils of Worldbuilding -->
+		<link>http://narrativedesignporn.csongorb.com/worldbuilding.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title forcedFilename="environmentart">environment/art</title>
+		<text>connection to other disciplines? # responsibilities? # workflows? # history?</text>
+		<link>https://www.youtube.com/watch?v=WWXsmnlmADc</link> <!-- GDC 2015: Dan Cox: Interior Design and Environment Art: Mastering Space, Mastering Place -->
+		<link>https://www.youtube.com/watch?v=HpjbkKjqPE8</link> <!-- GDC 2014: Dan Cox: What Modern Interior Design Teaches Us About Environment Art -->
+		<link>https://www.gamasutra.com/view/news/300314/Environment_art_isnt_about_making_pretty_thingsso_whats_it_about.php</link>
+		<link>http://howtonotsuckatgamedesign.com/2016/02/friedrich-romanticism-and-games/</link>
+		<link>https://80.lv/articles/the-stages-of-environment-art-in-gamedev/</link>
+		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/how-to-plan-level-designs-game-environments-workflow.php</link>
+		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/becoming-level-designer-environment-artist-part1.php</link>
+		<link>http://narrativedesignporn.csongorb.com/characterenvironmentdesign.html</link>
+	</card>
+	<card>
+		<cardCategoryId>3</cardCategoryId>
+		<title>speedrunning</title>
+		<text>workflows? # history? # how to analyse? # how to design? # what to learn from speedrunners? # categorisation?</text>
+		<link>https://www.fangamer.com/products/speedrun-book</link>
+		<link><![CDATA[https://www.youtube.com/watch?v=bt1DFNSNbRk&list=PLMxPYcr2zEkWInMyvvxmN22gjrRR0x__u]]></link> <!-- Summoning Salt: World Record Progression Playlist -->
+		<link>https://www.speedrun.com/</link>
+		<link>https://www.youtube.com/watch?v=pm8KdLPOm2c</link> <!-- Extre Credits: Speedrunning -->
+		<link>https://www.gamasutra.com/view/news/266277/6_ways_to_make_your_game_more_appealing_to_speedrunners.php</link>
+		<link><![CDATA[https://www.youtube.com/watch?v=OUdeoNHSlqA&list=PLraFbwCoisJA6eO7VSWtUqLaIFBQq4PCv]]></link> <!-- IGN Developers Reacting to Speedruns -->
+	</card>
+
+	<!--
+		==================================
+		Examples
+		==================================
+	-->
+
+	<!-- level editors -->
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="anyleveleditor">any/level editor</title>
+		<text>related theories, methods, disciplines? # similarities to game engines? # modding? # how does it saparate game and level design?</text>
+		<link>http://distractionware.com/forum/index.php?topic=322.0</link> <!-- vvvvvv -->
+		<link>http://www.elmerproductions.com/sp/software.html#cc_editsoftware</link> <!-- Supaplex -->
+		<link>http://www.popuw.com/editors.html</link> <!-- Prince of Persia 1 -->
+		<link>https://www.wikiwand.com/en/List_of_level_editors</link>
+		<link>http://doom.wikia.com/wiki/Editors</link>
+		<link>http://store.steampowered.com/tag/en/Level%20Editor</link>
+		<link>https://itch.io/games/tag-level-editor</link>
+		<link>https://www.puzzlescript.net/</link>
+		<link>https://ledoux.itch.io/bitsy</link>
+	</card>
+
+	<!-- games / levels -->
+
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>any game</title>
+		<text>related theories, methods, disciplines? # does it have an editor?</text>
+		<link>http://www.mobygames.com</link>
+		<link>https://www.kickstarter.com/projects/2093152267/the-metagame-discuss/posts/668406</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>doom</title>
+		<text>related theories, methods, disciplines? # history?</text>
+		<link>https://zdoom.org</link> <!-- modern era doom -->
+		<link>http://slade.mancubus.net</link> <!-- level editor -->
+		<link>http://vectorpoem.com/doom/</link>
+		<link>http://vectorpoem.com/news/?p=74</link> <!-- Lessons from Doom -->
+		<link>https://www.youtube.com/watch?v=ygp4-kmjpzI</link> <!-- "Devs Play" S01E05 - Doom -->
+		<link>https://en.wikipedia.org/wiki/Doom_WAD</link>
+		<link>https://en.wikipedia.org/wiki/Doom_(1993_video_game)</link>
+		<link>https://en.wikipedia.org/wiki/Development_of_Doom</link>
+		<link>https://en.wikipedia.org/wiki/Doom_engine</link>
+		<link>https://doomwiki.org/wiki/DoomEd</link>
+		<link>https://www.gdcvault.com/play/1026860/The-Early-Days-of-Id</link>
+		<link>https://eev.ee/blog/2015/12/19/you-should-make-a-doom-level-part-1/</link>
+		<link>https://www.youtube.com/watch?v=ygp4-kmjpzI&#x26;list=PLIhLvue17Sd6u2akeZZdYVBxNtfWZPm5W&#x26;index=13</link> <!-- "Devs Play" S01E05 - Doom (Part 1 - Intro) - incl. Playlist -->
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>non-euclidean/geometry</title>
+		<text>related theories, methods, disciplines?</text>
+		<link>https://en.wikipedia.org/wiki/Non-Euclidean_geometry</link>
+		<link>https://www.youtube.com/watch?v=lFEIUcXCEvI</link> <!-- Bitwise: How do non-euclidean games work? -->
+		<link>http://www.gdcvault.com/play/1023553/Level-Design-Workshop-Level-Design</link> <!-- William Chyr:  Level Design in Impossible Geometry -->
+		<link>http://www.geometrygames.org/</link>
+		<link>https://books.google.de/books/about/The_Shape_of_Space.html?id=Lurp6nB4LtQC</link>
+		<link>http://gdcvault.com/play/1020776/Antichamber-An-Overnight-Success-Seven</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>portal</title>
+		<text>related theories, methods, disciplines?</text>
+	 	<link>http://www.gamasutra.com/view/feature/6198/rewarding_the_players_valve_on_.php?print=1</link>
+  		<link>http://www.gamasutra.com/view/feature/6141/synthesizing_portal_2.php?print=1</link>
+	 	<link>http://www.rockpapershotgun.com/2013/09/20/untold-riches-an-analysis-of-portals-expressive-level-design/</link>
+		<link>https://gdcvault.com/play/1015821/Creating-a-Sequel-to-a</link>
+		<link>https://www.youtube.com/watch?v=RMARygUzmls</link> <!-- Patrick Holleman: LD Analysis Portal 2 -->
+		<link>https://www.youtube.com/watch?v=yK1mRhyeCzA</link> <!-- Shesez: Out of Bounds Secrets | Portal - Boundary Break -->
+		<link>https://www.youtube.com/watch?v=rAdtBksh31s</link> <!-- Shesez: Out of Bounds Secrets | Portal 2 - Boundary Break -->
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>de_dust</title>
+		<text>related theories, methods, disciplines? # skills &#x26; competition? # fun? # structure &#x26; flow? # why so popular?</text>
+		<link>https://arambartholl.com/dust/</link>
+ 		<link>http://www.johnsto.co.uk/design/making_dust</link>
+		<link>http://www.ign.com/articles/2012/02/03/the-evolution-of-counter-strikes-dedust</link>
+		<link>http://www.johnsto.co.uk/design/making_dust2</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="cratesandbarrels">crates/&#x26; barrels</title>
+		<text>classification? # history? # why so many? # examples?</text>
+		<link>http://www.oldmanmurray.com/features/39.html</link>
+		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/CrateExpectations</link>
+		<link>https://arambartholl.com/dust-winter-prison/</link>
+		<link>http://www.cracked.com/article_15748_a-gamers-manifesto.html</link>
+		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplodingBarrels</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="cuttherope">cut/the rope</title>
+		<text>related theories, methods, disciplines? # learning? # difficulty? # evolution?</text>
+		<link>http://cuttherope.wikia.com/wiki/Cardboard_Box</link>
+		<link>http://twvideo01.ubm-us.net/o1/vault/gdc2012/slides/Design%20Track/Voinov_Semyon_Level_Design_Casestudies.pdf</link>
+		<link>http://en.wikipedia.org/wiki/Cut_the_Rope</link>
+		<link>http://www.cuttheropefan.com/2011/07/changes-to-level-design-in-cut-rope.html</link>
+		<link>https://gdcvault.com/play/1015570/Level-Design-Case-Studies-Trainyard</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>gone home</title>
+		<text>what is the story of gone home? # related theories, methods, disciplines? # game writing?</text>
+		<link>texts/playandtalk_gonehome.pdf</link>
+		<link>http://www.youtube.com/watch?v=ILO-kzVEXj4</link> <!-- Gone Home: Making Stories with Steve Gaynor & Lucy Prebble -->
+		<link>http://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
+		<link>https://gdcvault.com/play/1020376/Why-Is-Gone-Home-a</link> <!-- Gaynor: Why gone home is a game -->
+		<link>https://gdcvault.com/play/1020479/The-Programming-of-Gone-Home</link>
+		<link>https://gdcvault.com/play/1020376/Why-Is-Gone-Home-a</link> <!-- ...a Game? -->
+		<link>https://gdcvault.com/play/1022112/Level-Design-in-a-Day</link> <!-- The LD of Gone Home -->
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>spelunky</title>
+		<text>what is the story of the game? # related theories, methods, disciplines? # replayability? # daily challenges?</text>
+		<link>http://spelunkyworld.com/dailychallenge/</link>
+		<link>http://spelunky.wikia.com/wiki/Spelunky_Wiki</link>
+		<link>http://www.rockpapershotgun.com/2013/10/22/geometry-of-death-spelunkys-level-generation-explained/</link>
+		<link>http://www.gamasutra.com/blogs/RichardTerrell/20121115/181646/A_Spelunky_Game_Design_Analysis__Pt_2.php</link>
+		<link>http://www.gamasutra.com/view/news/199108/</link>
+		<link>http://spelunkyexplorersclub.com/</link>
+		<link>http://www.gamasutra.com/blogs/DerekYu/20160323/268710/EXPLORERGMK_An_Excerpt_From_the_Spelunky_Book.php</link>
+		<link>https://www.youtube.com/watch?v=jv434Xyybqc</link> <!-- Spelunky - Noclip Documentary -->
+		<link>https://www.youtube.com/watch?v=Uqk5Zf0tw3o</link> <!-- GMTK: How (and Why) Spelunky Makes its Own Levels -->
+		<link>https://www.youtube.com/watch?v=G9FB5R4wVno</link> <!-- GMTK: Roguelikes, Persistency, and Progression -->
+		<link>https://www.polygon.com/reviews/2020/9/14/21432681/spelunky-2-review-ps4-pc-steam</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title forcedFilename="spreeparkberlin">spreepark/berlin</title>
+		<text>related theories, methods, disciplines? # achievements? # storytelling? # guidance system? # history? # the three parks?</text>
+		<link>https://www.spreepark.berlin/</link>
+		<link>https://www.spreepark.berlin/en/concept-and-fundamentals/</link>
+		<link>https://berliner-spreepark.de/</link>
+		<link>https://de.wikipedia.org/wiki/Spreepark_Berlin</link>
+	</card>
+	<card>
+		<cardCategoryId>4</cardCategoryId>
+		<title>uncharted 4</title>
+		<text>related theories, methods, disciplines?</text>
+		<link>http://www.gamesindustry.biz/articles/2016-05-05-critical-consensus-uncharted-4-a-real-treasure</link>
+		<link>https://www.wikiwand.com/en/Uncharted_4:_A_Thief%27s_End</link>
+		<link>http://uncharted.wikia.com/wiki/Uncharted_4:_A_Thief%27s_End</link>
+		<link>https://www.youtube.com/watch?v=6rTn8sj24wA</link> <!-- The Making of Uncharted 4 -->
+		<link>https://www.youtube.com/watch?v=lVzmqdy0tz4</link> <!-- Shesez: Out of Bounds Secrets | Uncharted 4 - Boundary Break -->
+		<link>https://kotaku.com/highlights-of-two-uncharted-4-levels-one-traditional-a-1775514454</link>
+		<link>https://www.gnomon.edu/blog/discover-naughty-dog-s-environment-art-workflow-for-uncharted-4</link>
+		<link>http://gamingbolt.com/uncharted-4s-open-level-design-impacts-its-gameplay-in-a-big-way</link>
+		<link>http://www.gamesindustry.biz/articles/2016-11-04-uncharted-4-not-as-scripted-as-you-might-think</link>
+		<link>https://kotaku.com/the-art-of-uncharted-4-1777213424</link>
+		<link>https://kotaku.com/uncharted-4s-climbing-reviewed-1775667916</link>
+		<link>https://kotaku.com/a-technical-look-at-what-makes-uncharted-4-so-pretty-1775588247</link>
+		<link>http://allenchou.net/2016/05/a-brain-dump-of-what-i-worked-on-for-uncharted-4/</link>
+		<link>https://www.youtube.com/watch?v=TW7T9s1nYiU</link> <!-- Lemarchand: Making Your Games Better with Psychology and Playtesting, the Uncharted Way -->
+	</card>
+
+</cards>
