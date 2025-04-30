@@ -13,13 +13,17 @@ See: https://github.com/csongorb/cardsimulator
 
 ## Changelog
 
-### Todos 
+### Todos / Ideas / Bugs
 
-- catching up with the features of the old strcuture
-	- adding PDFs!
+- PDF generation
+	- one page generation with QR codes has some bugs (codes are on a separate page)
+	- should the html-part be moved to js (and thus to the cardsimulator)? or is it ok to keep it in the html-file?
 
 ### Release 3.0 (Work in Progress)
 
+- restructured the main architecture, repository separated into
+	- cardsimulator
+	- leveldesigncards (that includes cardsimulator as submodule)
 - replaced all broken gamasutra.com links with working gamedeveloper.com links
 - some other links updated
 - new cards
@@ -49,4 +53,3 @@ Additional design / coding:
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 All other media (images, software, etc.) remain the property of their copyright holders.
-
