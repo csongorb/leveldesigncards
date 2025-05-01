@@ -15,14 +15,13 @@ See: https://github.com/csongorb/cardsimulator
 
 ### Todos / Ideas / Bugs
 
-- replaced all broken gamasutra.com links with working gamedeveloper.com links
-
 ### Release 3.0 (Work in Progress)
 
 - restructured the main architecture, repository separated into
 	- cardsimulator
 	- leveldesigncards (that includes cardsimulator as submodule)
 - some other links updated
+- replaced all broken gamasutra.com links with working gamedeveloper.com links
 - new cards
 	- lonely maintains: downhill
 	- level data structure
