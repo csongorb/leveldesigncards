@@ -5,7 +5,13 @@ Brainstorming-cards related to **Level Design**.
 - arrange / think / discuss!
 - read between the cards!
 
-Card data (XML files) to work together with https://github.com/csongorb/cardsimulator.
+Play here: [Level Design Cards](https://csongorb.github.io/leveldesigncards/)
+
+Other card sets available:
+
+- [Interface Design Cards](https://csongorb.github.io/interfacedesigncards/)
+- [Narrative Design Cards](https://csongorb.github.io/narrativedesigncards/)
+- [Dissecting Games](https://csongorb.github.io/dissectinggames/)
 
 ## Structure
 
@@ -47,6 +53,9 @@ Content:
 - new color palette for the categories
 - book links point to the book's Wikipedia article (or its Goodreads page when there is none) instead of Amazon
 - replaced all broken gamasutra.com links with working gamedeveloper.com links
+- switched from http to https where possible
+- got rid of twitter links
+- deleted duplicates
 - some other links updated
 - new cards
 	- lonely maintains: downhill
