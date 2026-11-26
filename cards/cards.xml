@@ -33,19 +33,18 @@
 		<cardCategoryId>0</cardCategoryId>   <!--  defining the category by index is not very nice -->
 		<title forcedFilename="leveldesign">level design</title>
 		<text>arrange # think # discuss! # read between the cards!</text>
-		<link>http://en.wikipedia.org/wiki/Pornography</link>
-		<link>http://www.johnsto.co.uk/design/common-sense/</link>
-		<link>http://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
+		<link>https://www.johnsto.co.uk/design/common-sense/</link>
+		<link>https://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
 		<!-- link>http://www.reachingperfection.com/p/forge-lessons.html</link -->
-		<link>http://gropingtheelephant.com/blog/?p=2310</link>
-		<link>https://twitter.com/tychobolt/status/1272578494543904771?lang=en</link> <!-- TychoBolt: In pursuit of better levels -->
+		<link>https://gropingtheelephant.com/blog/?p=2310</link>
+		<link>https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY</link> <!-- TychoBolt: In pursuit of better levels -->
 		<link><![CDATA[https://www.youtube.com/watch?v=KW4JlxAEAE0&list=PLc38fcMFcV_t6cVUpPXYnooVe1r_C0_4f]]></link> <!-- GMTK Level Design Playlist -->
 		<link><![CDATA[https://www.youtube.com/watch?v=lfJ-vGXX9ag&list=PLc38fcMFcV_sCvRjcKmG8Cby1Q4rG83ew]]></link> <!-- GMTK On The Level Playlist -->
-		<link>http://www.critical-distance.com/2013/10/02/the-art-of-level-design-analysis/</link>
+		<link>https://www.critical-distance.com/2013/10/02/the-art-of-level-design-analysis/</link>
 		<link>https://www.goodreads.com/review/list/40472585-csongor-baranyai?shelf=level-design</link>
 		<link>https://www.wikiwand.com/en/Level_design</link>
 		<link>https://en.wikipedia.org/wiki/Level_%28video_games%29</link>
-		<link><![CDATA[https://twitter.com/search?q=%28%23leveldesign%29%20%28from%3Athe_norberg%29&src=typed_query]]></link>
+		<link>https://www.tommynorberg.com/leveldesigntechniques</link>
 		<link>https://www.blog.radiator.debacle.us/2015/06/local-level-design-and-history-future.html</link>
 	</card>
 
@@ -59,23 +58,23 @@
 		<cardCategoryId>1</cardCategoryId>
 		<title forcedFilename="themevsmechanics">theme vs./mechanics</title>
 		<text>how are they connected? # examples? # difficulties? # classification? # organic level design?</text>
-		<link>http://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-d.html</link>
+		<link>https://clicknothing.com/2007/10/07/ludonarrative-d/</link>
 		<link>https://www.gamedeveloper.com/design/how-to-find-your-gameplay-themes</link>
-		<link>http://en.wikipedia.org/wiki/Affordance</link>
+		<link>https://en.wikipedia.org/wiki/Affordance</link>
 		<link>https://lostgarden.com/2011/10/03/triple-town-beta-now-with-bears/comment-page-1/</link>
 		<link>https://www.gamedeveloper.com/design/mechanics-vs-motif</link>
 		<link>https://www.gamedeveloper.com/design/defining-boundaries-creating-credible-obstacles-in-games</link>
 		<link>https://www.youtube.com/watch?v=0S43IwBF0uM</link> <!-- The Chemical Brothers: Star Guitar -->
 		<link>https://vimeo.com/1180080</link> <!-- Aram Bartholl: Speed -->
-		<link>http://asherv.com/threes/threemails/</link>
+		<link>https://asherv.com/threes/threemails/</link>
 		<link>https://www.gamedeveloper.com/design/affordance-design-in-half-life-2</link>
 		<link>https://www.gamedeveloper.com/design/practical-examples-for-marrying-theme-and-meaning</link>
-		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/InsurmountableWaistHeightFence</link>
-		<link>http://www.rockpapershotgun.com/2009/04/21/locked-door/</link>
+		<link>https://tvtropes.org/pmwiki/pmwiki.php/Main/InsurmountableWaistHeightFence</link>
+		<link>https://www.rockpapershotgun.com/2009/04/21/locked-door/</link>
 		<link>https://www.gamedeveloper.com/design/archetypical-spaces-part-1</link>
 		<link>https://www.gamedeveloper.com/design/archetypical-spaces-part-2-the-wilderness</link>
 		<link>https://www.gamedeveloper.com/business/archetypical-spaces-part-3-the-maze</link>
-		<link>http://critical-gaming.blogspot.com/2008/07/organic-and-inorganic-design.html</link>
+		<link>https://critical-gaming.blogspot.com/2008/07/organic-and-inorganic-design.html</link>
 		<link>https://www.youtube.com/watch?v=vk94HoI_tCo</link> <!-- 
 A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 	</card>
@@ -83,7 +82,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>1</cardCategoryId>
 		<title>tutorials</title>
 		<text>what is that? # what is that for? # what schould they teach? # classification? # psychology? # evolution &#x26; actual trends? # examples? # relationship to rational level design?</text>
-		<link>http://www.youtube.com/watch?v=BCPcn-Q5nKE</link> <!-- Tutorials 101 - How to Design a Good Game Tutorial - Extra Credits -->
+		<link>https://www.youtube.com/watch?v=BCPcn-Q5nKE</link> <!-- Tutorials 101 - How to Design a Good Game Tutorial - Extra Credits -->
 		<link>https://www.gamedeveloper.com/design/tutorials-learning-to-play</link>
 		<link>https://www.gamedeveloper.com/design/the-designer-s-notebook-eight-ways-to-make-a-bad-tutorial</link>
 		<link>https://www.gamedeveloper.com/design/darwinian-difficulty-how-throwing-players-in-headfirst-can-work</link>
@@ -93,14 +92,14 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>1</cardCategoryId>
 		<title forcedFilename="playernavigation">player/navigation</title>
 		<text>what is that? # what is that for? # how does it work? # examples? # related professions?</text>
-		<link>http://www.psychologyofgames.com/2013/09/why-do-color-coded-clues-in-level-design-work/</link>
+		<link>https://www.psychologyofgames.com/2013/09/why-do-color-coded-clues-in-level-design-work/</link>
 		<link>https://www.youtube.com/watch?v=-H97gCCJFXA</link>  <!-- Backtracking and Level Design - Making a Way Out - Extra Credits -->
-		<link>http://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
-		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<link>https://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
+		<link>https://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
 		<link>http://blog.joelburgess.com/2011/03/gdc-2011-transcript-motivating-players.html</link>
 		<link>https://gestalten.com/products/left-right-up-down</link>
-		<link>http://de.wikipedia.org/wiki/Signaletik</link>
-		<link>http://gangles.ca/2009/05/26/guiding-the-eye/</link>
+		<link>https://de.wikipedia.org/wiki/Signaletik</link>
+		<link>https://gangles.ca/2009/05/26/guiding-the-eye/</link>
 		<link>https://book.leveldesignbook.com/process/blockout/wayfinding</link>
 		<link>https://gdcvault.com/play/1022117/Level-Design-in-a-Day</link> <!-- Brandon Chung: Wayfinding -->
 		<link>https://www.youtube.com/watch?v=09r1B9cVEQY</link> <!-- GDC 2018 David Shaver: Blockmesh and Lighting Tips -->
@@ -113,7 +112,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<!-- link>http://blogs.wefrag.com/channie/2010/02/28/deconstructing-favela-part-i/</link -->
 	 	<!-- link>http://www.vanillatf2.org/2012/07/a-look-into-competitive-level-design-pt-1/</link -->
 		<link>https://www.gdcvault.com/play/1021868/Community-Level-Design-for-Competitive</link>
-		<link>http://www.raphkoster.com/wp-content/uploads/2011/02/Koster_Social_Social-mechanics_GDC2011.pdf</link>
+		<link>https://www.raphkoster.com/wp-content/uploads/2011/02/Koster_Social_Social-mechanics_GDC2011.pdf</link>
 		<!-- link>http://localmultiplayer.com/</link -->
 		<link>https://itch.io/games/local-multiplayer</link>
 		<link>https://store.steampowered.com/tags/en/Local+Multiplayer</link>
@@ -122,13 +121,13 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://gdcvault.com/play/1024304/Level-Design-Workshop-Singleplayer-vs</link>
 		<link>https://gdcvault.com/play/1025183/Level-Design-Workshop-The-Holy</link>
 		<link>https://web.archive.org/web/20220415181140/http://polyculture.co/polyculture/cdg/</link>
-		<link>http://www.benb-design.net/Articles/benb_article02.pdf</link> <!-- Benjamin Bauer -->
+		<link>https://www.benb-design.net/Articles/benb_article02.pdf</link> <!-- Benjamin Bauer -->
 	</card>
 	<card>
 		<cardCategoryId>1</cardCategoryId>
 		<title forcedFilename="gamevsleveldesign">game vs./level design</title>
 		<text>how are they connected / separated? # what is game design providing? # what does level design work with? # examples? # history? # the definition of level design? # how do they interact?</text>
-		<link>http://www.worch.com/files/gdc/igda_sf_mworch_web.pdf</link>
+		<link>https://www.worch.com/files/gdc/igda_sf_mworch_web.pdf</link>
 		<link>texts/Gregory_GEngineArchitecture_DataDrivenDesign.pdf</link>
 		<link>https://www.gamedeveloper.com/design/level-design-is-game-design</link>
 		<link>https://www.rockpapershotgun.com/2017/03/24/how-hitmans-hokkaido-level-was-made/</link>
@@ -139,11 +138,11 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title>mental maps</title>
 		<text>selftest? # examples? # chunking &#x26; grokking? # how do they emerge? # what are they for? # related professions? # abstract spaces?</text>
 		<link>https://books.google.de/books?id=_phRPWsSpAgC</link> <!-- Kevin Lynch: The Image of the City -->
-		<link>http://mapstalgia.tumblr.com/</link>
+		<link>https://mapstalgia.tumblr.com/</link>
 		<link>http://www.was-schafft-raum.at/projekte_m1.htm</link>
-		<link>http://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
-		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
-		<link>http://www.slideshare.net/resmini/game-design-lecture-2-15128133</link>
+		<link>https://www.gamearch.com/2009/10/25/no-more-wrong-turns-pdf/</link>
+		<link>https://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<link>https://www.slideshare.net/resmini/game-design-lecture-2-15128133</link>
 	</card>
 	<card>
 		<cardCategoryId>1</cardCategoryId>
@@ -153,26 +152,26 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.gamedeveloper.com/design/better-game-stories-in-one-step</link>
 		<link>https://www.theatlantic.com/technology/archive/2017/04/video-games-stories/524148/</link>
 		<link>https://www.gamedeveloper.com/design/street-fighter-is-one-of-the-greatest-story-telling-games</link>
-		<link>http://polyneux.de/2013/01/04/zufallsgeschichten-minecraft/</link>
-		<link>http://www.polygon.com/2016/4/5/11346848/the-true-history-of-eve-online-empires-of-eve-andrew-groen</link>
+		<link>https://polyneux.de/2013/01/04/zufallsgeschichten-minecraft/</link>
+		<link>https://www.polygon.com/2016/4/5/11346848/the-true-history-of-eve-online-empires-of-eve-andrew-groen</link>
 		<link>https://prezi.com/3wxapjl33ga2/experienceasprinciple_160114/</link>
 		<link>http://gamedesignreviews.com/reviews/sword-of-mana-do-dont-show/</link>
 		<link>https://www-archiv.fdm.uni-hamburg.de/lhn/node/84.html</link>
-		<link>http://gdcvault.com/play/1023503/THE-GAME-DESIGN-CHALLENGE-The</link>
+		<link>https://gdcvault.com/play/1023503/THE-GAME-DESIGN-CHALLENGE-The</link>
 		<link>https://dwarffortresswiki.org/index.php/Dwarf_Fortress_webcomics</link>
 	</card>
 	<card>
 		<cardCategoryId>1</cardCategoryId>
 		<title forcedFilename="evolutionofstoryworlds">evolution of/storyworlds</title>
-		<text>evolution? # media history &#x26; media studies? # examples? # why are there so many storyworlds? # are there so many storyworlds? # connection to games? # literacy?</text>
+		<text>evolution? # media history &#x26; media studies? # examples? # why are there so many storyworlds? # are there so many storyworlds? # connection to games? # connection to other media? # literacy?</text>
 		<link>https://kotaku.com/manifesto-the-21st-century-will-be-defined-by-games-1275355204</link>
 		<link>https://books.google.de/books?id=RlRVNikT06YC</link> <!-- Henry Jenkins: Convergence Culture -->
-		<link>http://www.bogost.com/blog/on_the_manifesto_for_a_ludic_c.shtml</link>
+		<link>https://www.bogost.com/blog/on_the_manifesto_for_a_ludic_c.shtml</link>
 		<!-- link>http://gamingvulture.com/2013/09/12/shouldnt-i-be-playing-the-manifesto-for-a-ludic-century/</link -->
 		<link>https://www.goodreads.com/book/show/15858928-building-imaginary-worlds</link> <!-- Goodreads: Building Imaginary Worlds (Mark J. P. Wolf) -->
 		<link>texts/freyermuth_transmedia_twelfepostulates_1to6.pdf</link>
-		<link>http://www.worch.com/2013/04/24/talking-to-the-player-how-cultural-currents-shape-and-level-design/</link>
-		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+		<link>https://www.worch.com/2013/04/24/talking-to-the-player-how-cultural-currents-shape-and-level-design/</link>
+		<link>https://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
 	</card>
 	<card>
 		<cardCategoryId>1</cardCategoryId>
@@ -180,8 +179,8 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<text>structure? # two stories? # examples? # stuctural similarities to?</text>
 		<link>https://archive.org/details/cu31924026208052</link> <!-- Thomas Moody Campbell: Hebbel, Ibsen and the analytical exposition -->
 		<link>texts/kaiserstutterheim_deranalytischefilm.pdf</link>
-		<link>http://dradiowissen.de/beitrag/archeogames-als-archaeologe-spielwelten-erforschen</link>
-		<link>http://de.wikipedia.org/wiki/Analytisches_Drama</link>
+		<link>https://dradiowissen.de/beitrag/archeogames-als-archaeologe-spielwelten-erforschen</link>
+		<link>https://de.wikipedia.org/wiki/Analytisches_Drama</link>
 	</card>
 
 	<!--
@@ -195,12 +194,12 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title forcedFilename="scriptstriggersevents">scripts,/triggers &#x26;/events</title>
 		<text>what is a trigger? # how does it structure the story? # history? # actual developments? # classification?</text>
 		<link>https://docs.unity3d.com/Documentation/ScriptReference/Collider.OnTriggerEnter.html</link>
-		<link>http://www.worldofleveldesign.com/categories/wold-members-tutorials/petebottomley/udk-moving-doors.php</link>
+		<link>https://www.worldofleveldesign.com/categories/wold-members-tutorials/petebottomley/udk-moving-doors.php</link>
 		<link>https://www.wikiwand.com/en/Scripted_sequence</link>
 		<link>texts/Winterstetter_BA_TriggerBasedScripting.pdf</link>
-		<link>http://www.csd.uwo.ca/~katchab/pubs/gameonna2008_storytelling.pdf</link>
+		<link>https://www.csd.uwo.ca/~katchab/pubs/gameonna2008_storytelling.pdf</link>
 		<!-- link>https://www.youtube.com/watch?v=2C-cIE7P1EE</link> Tommy Norberg: Understanding a LOOK AT system (private)-->
-		<link>http://www.gdcvault.com/play/1022116/Level-Design-in-a-Day</link> <!-- Forrest Downling: Using LD Tools Expressively -->
+		<link>https://www.gdcvault.com/play/1022116/Level-Design-in-a-Day</link> <!-- Forrest Downling: Using LD Tools Expressively -->
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
@@ -209,19 +208,19 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html</link>
 		<link>https://gdcvault.com/play/1023202/-Fallout-4-s-Modular</link>
 		<link>http://wiki.polycount.com/wiki/Modular_environments</link>
-		<link>http://udn.epicgames.com/Three/ModularLevelDesign.html</link>
+		<link>https://udn.epicgames.com/Three/ModularLevelDesign.html</link>
 		<link>https://www.gamedeveloper.com/production/creating-modular-game-art-for-fast-level-design</link>
 		<link>https://shop.carrera-toys.com/en?shp=4</link>
-		<link>http://www.mack-rides.com/</link>
-		<link>http://davesmapper.com/</link>
+		<link>https://www.mack-rides.com/</link>
+		<link>https://davesmapper.com/</link>
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
 		<title forcedFilename="proceduralld">procedural/level design</title>
 		<text>what is that? # pros and cons? # how does it work? # examples? # relationship to modularity? # during development or at runtime? # content or gameplay? # the ideas behind the algorithms?</text>
-		<link>http://en.wikipedia.org/wiki/Procedural_generation</link>
-	 	<link>http://www.gamecareerguide.com/features/336/procedural_content_.php?print=1</link>
-		<link>http://davesmapper.com/</link>
+		<link>https://en.wikipedia.org/wiki/Procedural_generation</link>
+	 	<link>https://www.gamecareerguide.com/features/336/procedural_content_.php?print=1</link>
+		<link>https://davesmapper.com/</link>
 		<link>https://www.wikiwand.com/en/Houdini_(software)</link>
 		<link>https://www.gamedeveloper.com/design/how-to-make-insane-procedural-platformer-levels</link>
 	 	<link>https://indienova.com/u/root/blogread/1766</link> <!-- Nuclear Throne LD Generation -->
@@ -229,8 +228,8 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://gdcvault.com/play/1025181/Level-Design-Workshop-Procedural-Regeneration</link>
 		<link>https://gdcvault.com/play/1024213/Practical-Procedural-Generation-for</link>
 		<link>https://www.gamedeveloper.com/design/puzzle-design-in-last-train-to-timbuktu-difficulty-levels</link>
-		<link>http://www.gamedev.net/blog/33/entry-2227887-more-on-minecraft-type-world-gen/</link>
-		<link>http://tinysubversions.com/2013/10/spelunky-generator-lessons-part-2-room-generation/</link>
+		<link>https://www.gamedev.net/blog/33/entry-2227887-more-on-minecraft-type-world-gen/</link>
+		<link>https://tinysubversions.com/2013/10/spelunky-generator-lessons-part-2-room-generation/</link>
 		<link>https://www.youtube.com/watch?v=Uqk5Zf0tw3o</link> <!-- GMTK: Spelunky Level Generation -->
 	</card>
 	<card>
@@ -239,11 +238,11 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<text>what is that? # what is that for? # analysis &#x26; rhythm? # emergence? # how deep is your gameplay? # examples? # classification? # relation to metrics?</text>
 		<link>https://www.gamedeveloper.com/design/practical-game-design-the-rule-of-threes</link>
 		<link>https://w.itch.io/level-design-lessons</link>
-		<link>http://www.spectrum-game.com/portfolio-Cyril_Ramade/Cyril%20Ramade_Level%20Design%20-%20Astray.pdf</link>
+		<link>https://www.spectrum-game.com/portfolio-Cyril_Ramade/Cyril%20Ramade_Level%20Design%20-%20Astray.pdf</link>
 		<link>https://www.gamedeveloper.com/design/rational-design-the-core-of-i-rayman-origins-i-</link>
 		<link>https://gdcvault.com/play/1020398/Rayman-Legends-The-Design-Process</link>
 		<link>https://www.gamedeveloper.com/design/the-rational-design-handbook-an-intro-to-rld</link>
-		<link>http://www.jesperjuul.net/artoffailure/</link>
+		<link>https://www.jesperjuul.net/artoffailure/</link>
 		<link>https://alexandervonanhalt.com/Ooze/</link> <!-- Alexander von Anhalt: Rational Level Design -->
 		<link>https://www.youtube.com/watch?v=ZH2wGpEZVgE</link> <!-- Extra Credits Design Club: Super Mario Bros: Level 1-1 -->
 		<link>https://www.youtube.com/watch?v=x3y7CIfCI7E</link> <!-- Patrick Holleman: Cadences: Finding the Voice of Any Level's Design -->
@@ -265,11 +264,11 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>http://twvideo01.ubm-us.net/o1/vault/gdc2012/slides/Design%20Track/Voinov_Semyon_Level_Design_Casestudies.pdf</link>
 		<link>http://www.klonk-games.de/de/2013/07/level-design-analysis-heatmaps/</link>
 		<link>https://www.gamedeveloper.com/design/using-heat-maps-to-improve-track-design</link>
-		<link>http://andersdrachen.files.wordpress.com/2012/08/gamedatamining_intro.pdf</link>
+		<link>https://andersdrachen.files.wordpress.com/2012/08/gamedatamining_intro.pdf</link>
 		<link>https://www.gamedeveloper.com/design/game-telemetry-with-dna-tracking-on-assassin-s-creed</link>
 		<link>https://lostgarden.com/2009/07/05/flash-love-letter-2009-part-1/comment-page-1/</link>
-		<link>http://www.youtube.com/watch?v=nqGcXOksFGg</link> <!-- Metrics - The Danger of Data-Driven Game Design - Extra Credits -->
-		<link>http://www.gdcvault.com/play/1012227/Development-Telemetry-in-Video-Games</link>
+		<link>https://www.youtube.com/watch?v=nqGcXOksFGg</link> <!-- Metrics - The Danger of Data-Driven Game Design - Extra Credits -->
+		<link>https://www.gdcvault.com/play/1012227/Development-Telemetry-in-Video-Games</link>
 		<link>https://gdcvault.com/play/1015572/Why-Designers-Should-Care-About</link>
 	</card>
 	<card>
@@ -294,17 +293,17 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>texts/guenzel_raum_einleitung.pdf</link>
 		<link>https://en.wikipedia.org/wiki/Space</link>
 		<link>https://www.gamedeveloper.com/design/composition-in-level-design</link>
-		<link>http://narrativedesignporn.csongorb.com/atmosphere.html</link>
+		<link>https://csongorb.github.io/narrativedesigncards/?card=atmosphere</link>
 		<link>texts/deWinter_Miyamoto_SpacialNarratives.pdf</link>
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
 		<title forcedFilename="goalsandgameplayloops">goals &#x26;/gameplay/loops</title>
 		<text>classification? # integration of goals &#x26; gameplay loops into levels? # goal structures? # foreshadowing? # open world? # examples?</text>
-		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-2-level-designers-core-space-creation-and-level-flow-matthias-worch-senior-level-designer-visceral-games</link>
+		<link>https://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-2-level-designers-core-space-creation-and-level-flow-matthias-worch-senior-level-designer-visceral-games</link>
 		<link>http://blog.joelburgess.com/2011/03/gdc-2011-transcript-motivating-players.html</link>
 		<link>http://www.dashjump.com/cpr-design/</link>
-		<link>http://www.jesperjuul.net/text/withoutagoal/</link>
+		<link>https://www.jesperjuul.net/text/withoutagoal/</link>
 		<link>https://www.tommynorberg.com/post/bait-and-switch</link>
 		<link>https://www.researchgate.net/publication/310480261_The_Gameplay_Loop_a_Player_Activity_Model_for_Game_Design_and_Analysis</link> <!-- Emmanuel Guardiola -->
 		<link>https://www.youtube.com/watch?v=HqcLghafPXY</link> <!-- The Power of Incentives - How Games Help Us Examine Our World - Extra Credits -->
@@ -314,33 +313,33 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title>gating</title>
 		<text>what is that? # what is that for? # classification? # examples?</text>
 		<link>https://technicalgamedesign.blogspot.de/2011/04/gating.html</link>
-		<link>http://shaunspalding.co.uk/gating-in-level-design/</link>
-		<link>https://twitter.com/the_Norberg/status/1320105523379929094</link>
+		<link>https://shaunspalding.co.uk/gating-in-level-design/</link>
+		<link>https://www.pinterest.com/pin/347973508727415649/</link> <!-- Tommy Norberg: Gating in Level Design -->
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
 		<title>modding</title>
 		<text>what is that? # classification? # what can be changed &#x26; edited? # history? # modding vs. level design? # examples? # history? # tools?</text>
-		<link>http://de.wikipedia.org/wiki/Mod_%28Computerspiel%29</link>
-		<link>http://en.wikipedia.org/wiki/Mod_%28video_gaming%29</link>
+		<link>https://de.wikipedia.org/wiki/Mod_%28Computerspiel%29</link>
+		<link>https://en.wikipedia.org/wiki/Mod_%28video_gaming%29</link>
 		<link>texts/Gregory_GEngineArchitecture_DataDrivenDesign.pdf</link>
 		<link>https://en.wikipedia.org/wiki/Doom_modding</link>
 		<link>https://www.doomworld.com/25years/the-roots-of-doom-mapping/index/</link>
-		<link>http://www.rockpapershotgun.com/2012/09/21/a-peoples-history-of-the-fps-part-3-the-postmod/</link>
-		<link>http://www.gdcvault.com/play/1022107/Level-Design-in-a-Day</link> <!-- Joel Burgess: How Modding Made Bethesda Better -->
+		<link>https://www.rockpapershotgun.com/2012/09/21/a-peoples-history-of-the-fps-part-3-the-postmod/</link>
+		<link>https://www.gdcvault.com/play/1022107/Level-Design-in-a-Day</link> <!-- Joel Burgess: How Modding Made Bethesda Better -->
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
 		<title forcedFilename="storyworldsandbibles">storyworlds &#x26;/storybibles</title>
 		<text>what defines a storyworld? # what is in a storyworld? # classification? # story vs. world? # documents and their structure? # examples?</text>
-		<link>http://guyhasson.wordpress.com/2011/06/20/story-design-tips-5-articles-about-world-building/</link>
-		<link>http://en.wikipedia.org/wiki/Worldbuilding</link>
-		<link>http://en.wikipedia.org/wiki/Bible_%28writing%29</link>
+		<link>https://guyhasson.wordpress.com/2011/06/20/story-design-tips-5-articles-about-world-building/</link>
+		<link>https://en.wikipedia.org/wiki/Worldbuilding</link>
+		<link>https://en.wikipedia.org/wiki/Bible_%28writing%29</link>
 		<link>https://joergihle.de/presse/innomedien/</link>
 		<link>https://www.goodreads.com/book/show/15858928-building-imaginary-worlds</link> <!-- Goodreads: Building Imaginary Worlds (Mark J. P. Wolf) -->
-		<link>http://en.wikipedia.org/wiki/Fictional_universe</link>
+		<link>https://en.wikipedia.org/wiki/Fictional_universe</link>
 		<link>https://en.wikipedia.org/wiki/Na%27vi_language</link>
-		<link>http://www.zamonien.de/lexikon.php</link>
+		<link>https://www.zamonien.de/lexikon.php</link>
 		<link>https://prezi.com/_mtgi7uv_49c/storyworlds_160204/</link>
 		<link>https://www.gamedeveloper.com/design/building-a-basic-story-bible-for-your-game</link>
 		<link>https://www.instituteforwriters.com/worldbuilding-bible/</link>
@@ -367,33 +366,33 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>2</cardCategoryId>
 		<title>process</title>
 		<text>workflows? # processes? # tools? # professions?</text>
-		<link>https://twitter.com/hashtag/blocktober</link>
+		<link>https://www.cdprojektred.com/en/blog/50/discovering-the-art-of-level-design-through-blocktober</link>
 		<link>https://www.gamedeveloper.com/design/block-design-in-level-design</link>
 		<link>https://www.gamedeveloper.com/design/white-boxing-your-game</link>
-		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/how_to_plan_your_next_map/how_to_plan_your_next_map.php</link>
-		<link>http://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
+		<link>https://www.worldofleveldesign.com/categories/level_design_tutorials/how_to_plan_your_next_map/how_to_plan_your_next_map.php</link>
+		<link>https://www.rockpapershotgun.com/2011/12/23/level-with-me-level-with-me/</link>
 		<link>https://www.youtube.com/watch?v=PhW8CY8XkFg</link> <!-- Joel Burgess - GDC 2014: How We Used Iterative Level Design to Ship Skyrim and Fallout 3 -->
 		<link>https://www.gamedeveloper.com/design/an-architect-s-perspective-on-level-design-pre-production</link>
-		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-5-production-the-thrilling-world-of-workflow-forrest-dowling-lead-multiplayer-level-designer-kaos-studios-thq-inc</link>
-		<link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-3-tools-making-a-better-game-jim-brown-lead-level-designer-epic-games</link>
+		<link>https://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-5-production-the-thrilling-world-of-workflow-forrest-dowling-lead-multiplayer-level-designer-kaos-studios-thq-inc</link>
+		<link>https://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-3-tools-making-a-better-game-jim-brown-lead-level-designer-epic-games</link>
 	</card>
 	<card>
 		<cardCategoryId>2</cardCategoryId>
 		<title>environmental/storytelling</title>
 		<text>what is environmental storytelling? # spacial information distribution? # the whole is more than the sum of it&#x27;s parts? # classification? # methods &#x26; theories? # examples? # pattern recognition &#x26; causality? # interpretation &#x26; misinterpretation?</text>
 		<link>https://www.gdcvault.com/play/1012647/what-happened-here-environmental</link>
-		<link>http://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
+		<link>https://www.gamearch.com/2011/04/16/experiencing-environments-pdf-download/</link>
 		<!-- link>https://www.gamasutra.com/view/news/293930/7_works_of_interactive_fiction_that_every_developer_should_study.php</link -->
 		<!-- link>http://www.slideshare.net/LevelDesigninaDay/gdc-2010-level-design-in-a-day-part-6-level-designer-storyteller-joel-burgess-senior-designer-bethesda-game-studios</link -->
-		<link><![CDATA[http://web.mit.edu/~21fms/People/henry3/games&narrative.html]]></link> <!-- Narrative Architecture -->
-		<link>http://scalar.usc.edu/works/interactive-storytelling-narrative-techniques-and-methods-in-video-games/environmental-storytelling</link>
-		<link>http://www.paidia.de/?p=4027</link> <!-- Die Narration der Dinge Teil II – Environmental Storytelling -->
+		<link><![CDATA[https://web.mit.edu/~21fms/People/henry3/games&narrative.html]]></link> <!-- Narrative Architecture -->
+		<link>https://scalar.usc.edu/works/interactive-storytelling-narrative-techniques-and-methods-in-video-games/environmental-storytelling</link>
+		<link>https://www.paidia.de/?p=4027</link> <!-- Die Narration der Dinge Teil II – Environmental Storytelling -->
 		<link>https://emshort.blog/2014/01/09/reading-and-hypothesis/</link>
 		<link>https://frictionalgames.blogspot.de/2013/07/thoughts-on-last-of-us.html</link>
 		<!-- link>http://notgames.org/blog/2010/03/19/not-a-manifesto/</link -->
-		<link>http://pixeldiskurs.de/2016/11/06/pixeldiskurs-podcast-20-walking-simulator-wie-werden-wir-den-begriff-wieder-los/</link>
+		<link>https://pixeldiskurs.de/2016/11/06/pixeldiskurs-podcast-20-walking-simulator-wie-werden-wir-den-begriff-wieder-los/</link>
 		<link>https://www.gamedeveloper.com/design/how-walking-simulators-allow-us-to-touch-other-worlds</link>
-		<link>http://www.electrondance.com/screw-your-walking-simulators/</link>
+		<link>https://www.electrondance.com/screw-your-walking-simulators/</link>
 		<link>https://gdcvault.com/play/1022112/Level-Design-in-a-Day</link> <!-- LD of Gone Home -->
 		<link>https://www.youtube.com/watch?v=RwlnCn2EB9o</link> <!-- GMTK: How Level Design Can Tell a Story -->
 		<link>https://public.wsu.edu/~delahoyd/20th/robbe.html</link> <!-- Dr. Michael Delahoyde: Robbe-Grillet: Jealousy -->
@@ -408,16 +407,16 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>2</cardCategoryId>
 		<title>tool design</title>
 		<text>function? # why so helpful? # level editors? # tipps? # examples? # internal or external? # history? # connection to modding?</text>
-		<link>http://www.shikadi.net/keenwiki/Changing_the_World_/_Editing_Keen_with_TED</link>
-		<link>http://www.shikadi.net/keenwiki/TED5</link>
-		<link>http://www.gdcvault.com/play/1023765/The-Early-Days-of-id</link>
+		<link>https://www.shikadi.net/keenwiki/Changing_the_World_/_Editing_Keen_with_TED</link>
+		<link>https://www.shikadi.net/keenwiki/TED5</link>
+		<link>https://www.gdcvault.com/play/1023765/The-Early-Days-of-id</link>
 		<link>https://www.gamedeveloper.com/design/classic-tools-retrospective-john-romero-talks-about-creating-ted-the-tile-editor-that-shipped-over-30-games</link>
 		<link>https://gamedevelopment.tutsplus.com/articles/make-your-life-easier-build-a-level-editor--gamedev-356</link>
 		<link>https://www.wikiwand.com/en/Level_editor</link>
 		<link>https://www.youtube.com/watch?v=brByJ5EVBn4</link> <!-- Robin-Yann Strom: Keeping LDesigners in the Zone Through Level Editor Design -->
 		<link>https://www.gamedeveloper.com/design/designing-design-tools</link>
-		<link>http://www.gdcvault.com/play/1019273/The-User-Experience-of-Game</link> <!-- David Lightbown -->
-		<link>http://www.gdcvault.com/play/1023377/Tech</link> <!-- Tech Toolbox GDC 2016 -->
+		<link>https://www.gdcvault.com/play/1019273/The-User-Experience-of-Game</link> <!-- David Lightbown -->
+		<link>https://www.gdcvault.com/play/1023377/Tech</link> <!-- Tech Toolbox GDC 2016 -->
 		<link>https://www.youtube.com/watch?v=iAxSqi5LBDM</link> <!-- GMTK: The stuff no one tells you about game development -->
 	</card>
 	<card>
@@ -441,7 +440,6 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>3</cardCategoryId>
 		<title>puzzle design</title>
 		<text>relation to games? # relation to level design? # how to? # tipps? # examples?</text>
-		<link>https://www.youtube.com/watch?v=zsjC6fa_YBg</link> <!-- GMTK: Puzzle Design -->
 		<link>https://scottkim.com/</link>
 		<link>https://www.gdcvault.com/play/1023549/Level-Design-Workshop-Solving-Puzzle</link> <!-- GDC 2016 Jolie Menzel -->
 		<link>https://mtnphil.wordpress.com/2016/09/13/adventure-game-puzzle-design/</link>
@@ -465,10 +463,10 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.gamedeveloper.com/design/environmental-storytelling</link>
 		<link>https://www.gamedeveloper.com/design/environmental-storytelling-part-ii-bringing-theme-park-environment-design-techniques-to-the-virtual-world</link>
 		<!-- link>http://archive.wired.com/wired/archive/14.04/disney_pr.html</link -->
-		<link>http://gdcvault.com/play/1305/Everything-I-Learned-About-Level</link>
-		<link>http://mrbossdesign.blogspot.de/2009/03/everything-i-learned-about-game-design.html</link>
-		<link>http://passport2dreams.blogspot.com/2010/12/third-queue.html</link>
-		<link>http://en.wikipedia.org/wiki/Queue_area</link>
+		<link>https://gdcvault.com/play/1305/Everything-I-Learned-About-Level</link>
+		<link>https://mrbossdesign.blogspot.de/2009/03/everything-i-learned-about-game-design.html</link>
+		<link>https://passport2dreams.blogspot.com/2010/12/third-queue.html</link>
+		<link>https://en.wikipedia.org/wiki/Queue_area</link>
 		<link>https://boingboing.net/2016/01/21/a-peek-into-disneylands-dead.html</link>
 		<link>https://headgum.com/the-jeff-rubin-jeff-rubin-show/international-theme-parks-explored</link>
 		<link>https://themedenvironments.blogspot.com/2021/03/theme-park-101-ten-principles-of.html</link>
@@ -477,13 +475,13 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>3</cardCategoryId>
 		<title forcedFilename="cognitivemodeling">cognitive/modeling</title>
 		<text>what is that? # relationship to games? # what does the player think about the game? # is the game real?</text>
-		<link>http://bedenk.de/sign/player-game-designer/</link>
+		<link>https://bedenk.de/sign/player-game-designer/</link>
 		<link><![CDATA[https://www.youtube.com/watch?v=pAOyWFOFhsg&list=PLAwxTw4SYaPlr4Uq3RoYuwlDADp0WQdGl&index=30]]></link> <!-- Don Norman: Introduction to Conceptual Models -->
 		<link>https://www.gamedeveloper.com/design/the-chemistry-of-game-design</link>
 		<link>https://www.raphkoster.com/2012/01/24/an-atomic-theory-of-fun-game-design/</link>
 		<link>https://en.wikipedia.org/wiki/Constructivism_%28philosophy_of_science%29</link>
 		<link>https://en.wikipedia.org/wiki/Solipsism</link>
-		<link>http://interfacedesigncards.csongorb.com/conceptualmodel.html</link>
+		<link>https://csongorb.github.io/interfacedesigncards/?card=conceptualmodel</link>
 		<link>https://www.youtube.com/watch?v=Q1Tczf8vxCM</link> <!-- GDC: Stop Getting Lost: Make Cognitive Maps, Not Levels -->
 	</card>
 	<card>
@@ -494,7 +492,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.gamedeveloper.com/design/game-design-and-gestalt-laws</link>
 		<link>https://www.gamedeveloper.com/design/it-s-all-in-your-mind-visual-psychology-and-perception-in-game-design</link> <!-- Hayden Duvall -->
 		<link>https://en.wikipedia.org/wiki/Visual_perception</link>
-		<link>https://interfacedesigncards.csongorb.com/perception.html</link>
+		<link>https://csongorb.github.io/interfacedesigncards/?card=perception</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
@@ -504,26 +502,26 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
    		<link>https://www.gamedeveloper.com/design/towards-a-digital-architecture</link>
 		<link>https://gdcvault.com/play/1025176/Level-Design-Workshop-An-Architectural</link> <!-- Christopher Totten -->
    		<link>https://books.google.de/books?id=pZ50MeEQRAoC</link> <!-- Rasmussen: Experiencing Architecture -->
-   		<link>http://www.heise.de/tp/artikel/23/23589/1.html</link>
-		<link>http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470057440.html</link>
+   		<link>https://www.heise.de/tp/artikel/23/23589/1.html</link>
+		<link>https://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470057440.html</link>
 		<link>https://gdcvault.com/play/1023554/Level-Design-Workshop-Architecture-in</link> <!-- ...in Level Design (Claire Hosking) -->
 		<link>https://gdcvault.com/play/1025311/World-Building-with</link> <!-- ...with Architecture (Sarah Bonser) -->
 		<link>https://www.gamedeveloper.com/design/game-cities-five-equally-essential-books</link>
 		<link>https://www.gamedeveloper.com/design/urban-design-and-the-creation-of-videogame-cities</link>
 		<link>https://www.game-cities.com/articles-talks</link>
-		<link>http://www.alphr.com/games/1002937/from-dark-souls-to-manifold-garden-how-games-tell-stories-through-architecture</link>
+		<link>https://www.alphr.com/games/1002937/from-dark-souls-to-manifold-garden-how-games-tell-stories-through-architecture</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
 		<title>achievements</title>
 		<text>what is this? # classification? # additional objectives? # intrinsic vs. extrinsic motivation? # gamification? # examples? # history?</text>
-		<link>http://www.youtube.com/watch?v=hFM4eIAou5M</link> <!-- Achievements - Creating a Meaningful Meta-Game - Extra Credits -->
+		<link>https://www.youtube.com/watch?v=hFM4eIAou5M</link> <!-- Achievements - Creating a Meaningful Meta-Game - Extra Credits -->
 		<link>https://www.gamedeveloper.com/design/the-cake-is-not-a-lie-how-to-design-effective-achievements</link>
-		<link>http://gamestudies.org/1101/articles/jakobsson</link>
-		<link>http://www.gamecareerguide.com/features/649/results_from_the_game_design_.php?print=1</link>
+		<link>https://gamestudies.org/1101/articles/jakobsson</link>
+		<link>https://www.gamecareerguide.com/features/649/results_from_the_game_design_.php?print=1</link>
 		<link>https://www.gamedeveloper.com/design/the-right-kind-of-carrot</link>
 		<link>https://www.critical-distance.com/2010/04/21/jesse-schell-design-outside-the-box/</link>
-		<link>http://codingconduct.cc/9-5-Theses-on-Gamification</link>
+		<link>https://codingconduct.cc/9-5-Theses-on-Gamification</link>
 		<link>https://celestegame.fandom.com/wiki/Collectibles</link>
 		<link>https://gdcvault.com/play/1018089/Designing-Compelling-Achievements</link>
 		<link>https://www.youtube.com/watch?v=c2CLO8CcBjg</link> <!-- GMTK: Are Lives Outdated Game Design? -->
@@ -538,9 +536,9 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://web.archive.org/web/20220129133528/https://www.corvus-design.com/category/design-with-play/</link>
 		<link>https://web.archive.org/web/20180926150513/https://www.play-scapes.com/</link>
 		<link>https://web.archive.org/web/20180724070152/http://www.play-scapes.com/play-design/contemporary-design/woodthorpe-grange-playground-keita-takahashi-nottingham-uk-proposed/</link>
-		<link>http://www.blog.radiator.debacle.us/2013/03/course-catalog-at-radiator-university.html</link>
+		<link>https://www.blog.radiator.debacle.us/2013/03/course-catalog-at-radiator-university.html</link>
 		<link>https://www.google.de/search?q=skate+park+design</link>
-		<link>http://architekturfuerkinder.ch/</link>
+		<link>https://architekturfuerkinder.ch/</link>
 		<link>https://www.deepfun.com/articles/</link>
 		<link>https://www.youtube.com/watch?v=wn27AGuE49A</link> <!-- GDC: Playgrounds and Level Design -->
 	</card>
@@ -548,34 +546,34 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>3</cardCategoryId>
 		<title forcedFilename="museumplanning">museum/planning</title>
 		<text>related issues? # achievements? # indexical storytelling? # guidance system? # history? # relation to games? # examples?</text>
-		<link>http://www.transcript-verlag.de/978-3-89942-814-8/museumsanalyse?c=746</link>
-		<link>http://www.transcript-verlag.de/978-3-8376-1600-2/die-ausstellung-als-drama?c=134</link>
-		<link>http://www.transcript-verlag.de/978-3-89942-192-7/medium-ausstellung?c=746</link>
-		<link>http://de.wikipedia.org/wiki/Museumsp%C3%A4dagogik</link>
+		<link>https://www.transcript-verlag.de/978-3-89942-814-8/museumsanalyse?c=746</link>
+		<link>https://www.transcript-verlag.de/978-3-8376-1600-2/die-ausstellung-als-drama?c=134</link>
+		<link>https://www.transcript-verlag.de/978-3-89942-192-7/medium-ausstellung?c=746</link>
+		<link>https://de.wikipedia.org/wiki/Museumsp%C3%A4dagogik</link>
 		<link>https://en.wikipedia.org/wiki/Museum_education</link>
-		<link>http://www.deutsches-museum.de/verlag/aus-der-forschung/pus/</link>
-		<link>http://smithsonianquests.org/</link>
+		<link>https://www.deutsches-museum.de/verlag/aus-der-forschung/pus/</link>
+		<link>https://smithsonianquests.org/</link>
 		<link>https://killscreen.com/articles/game-design-ikea/</link>
-		<link>http://fallout.wikia.com/wiki/Museum_of_Technology</link>
+		<link>https://fallout.wikia.com/wiki/Museum_of_Technology</link>
 		<link>https://www.polygon.com/2021/1/24/22244838/video-game-museums-the-last-of-us-miles-morales</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
 		<title>transmedia</title>
 		<text>what is transmedia? # definition? # classification? # examples? # related issues? # how is transmedia communicating? # what kind of stories are possible? # relation to games?</text>
-		<link>http://en.wikipedia.org/wiki/Transmedia_storytelling</link>
+		<link>https://en.wikipedia.org/wiki/Transmedia_storytelling</link>
 		<!-- link>http://interactivemedia.filmschule.de/post/42428394892/transmedia-literaturempfehlungen</link -->
 		<link>https://prezi.com/9uh_7mie9u60/transmedia/</link>
 		<link>https://www.goodreads.com/review/list/40472585-csongor-baranyai?shelf=transmedia</link>
-		<link>http://henryjenkins.org/blog/2007/03/transmedia_storytelling_101.html</link>
-		<link>http://henryjenkins.org/blog/2011/08/defining_transmedia_further_re.html</link>
-		<link>http://www.davidbordwell.net/blog/2009/08/19/now-leaving-from-platform-1/</link>
+		<link>https://henryjenkins.org/blog/2007/03/transmedia_storytelling_101.html</link>
+		<link>https://henryjenkins.org/blog/2011/08/defining_transmedia_further_re.html</link>
+		<link>https://www.davidbordwell.net/blog/2009/08/19/now-leaving-from-platform-1/</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
 		<title>game writing</title>
 		<text>relation to level design? # responsibilities? # quest design? # workflows? # experience as narrative? # is the relationship between level and game design similar the relationship between game writing and narrative design? # examples? # actual trends?</text>
-		<link>http://gamewriting.org/</link> <!-- IGDA chapter -->
+		<link>https://gamewriting.org/</link> <!-- IGDA chapter -->
 		<link>https://www.youtube.com/watch?v=KG1ziCvLkJ0</link> <!-- Extra Credits: Bad Writing -->
 		<!-- link>http://digitalnarratives.filmschule.de/post/116989307186/writingliteratur</link -->
 		<link>https://www.gamedeveloper.com/design/writing-i-firewatch-i-and-capturing-the-beauty-of-being-alone</link>
@@ -584,26 +582,26 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.gamedeveloper.com/design/leading-a-game-writer-s-room</link>
 		<link>https://www.gamedeveloper.com/design/a-practical-guide-to-game-writing</link>
 		<link>https://www.idlethumbs.net/tonecontrol/episodes/tom-bissell</link>
-		<link>http://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
-		<link>http://www.worch.com/2012/03/12/player-stories-and-designer-stories-download/</link>
-		<link>http://gropingtheelephant.com/blog/?p=1889</link>
+		<link>https://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
+		<link>https://www.worch.com/2012/03/12/player-stories-and-designer-stories-download/</link>
+		<link>https://gropingtheelephant.com/blog/?p=1889</link>
 		<link>https://gdcvault.com/play/1025314/Writing-and-Narrative-Design-A</link>
-		<link>http://narrativedesignporn.csongorb.com/gamewriting.html</link>
+		<link>https://csongorb.github.io/narrativedesigncards/?card=gamewriting</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
 		<title forcedFilename="worldbuilding">worldbuilding</title>
-		<text>what is worldbuilding? # vs. game art? # responsibilities? # workflows? # history? # why are there so many worlds?</text>
+		<text>what is worldbuilding? # vs. game art? # vs. environment art? # relation to other media? # responsibilities? # workflows? # history? # why are there so many worlds?</text>
 		<link>https://blog.thimbleweedpark.com/character_sheet.html</link>
-		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
-		<link>http://gdcvault.com/play/1023556/Level-Design-Workshop-Building-Firewatch</link>
-		<link>http://gdcvault.com/play/1023191/Making-the-World-of</link> <!-- Jane Ng: ...Firewatch -->
+		<link>https://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+		<link>https://gdcvault.com/play/1023556/Level-Design-Workshop-Building-Firewatch</link>
+		<link>https://gdcvault.com/play/1023191/Making-the-World-of</link> <!-- Jane Ng: ...Firewatch -->
 		<link>https://www.wikiwand.com/en/Fashion_design</link>
-		<link>http://www.peachpit.com/articles/article.aspx?p=1398008</link> <!-- Ernest Adams: Game Worlds -->
-		<link>http://narrativedesignporn.csongorb.com</link>
-		<link>http://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
+		<link>https://www.peachpit.com/articles/article.aspx?p=1398008</link> <!-- Ernest Adams: Game Worlds -->
+		<link>https://csongorb.github.io/narrativedesigncards</link>
+		<link>https://www.blog.radiator.debacle.us/2016/03/a-history-and-triumph-of-environment.html</link>
 		<link>https://www.youtube.com/watch?v=mA6MQHNM2yE</link> <!-- Nerdwriter1: Middle Earth and The Perils of Worldbuilding -->
-		<link>http://narrativedesignporn.csongorb.com/worldbuilding.html</link>
+		<link>https://csongorb.github.io/narrativedesigncards/?card=worldbuilding</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
@@ -614,9 +612,9 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://www.gamedeveloper.com/production/environment-art-isn-t-about-making-pretty-things-so-what-s-it-about-</link>
 		<link>https://web.archive.org/web/20240414081438/http://howtonotsuckatgamedesign.com/2016/02/friedrich-romanticism-and-games/</link>
 		<link>https://80.lv/articles/the-stages-of-environment-art-in-gamedev/</link>
-		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/how-to-plan-level-designs-game-environments-workflow.php</link>
-		<link>http://www.worldofleveldesign.com/categories/level_design_tutorials/becoming-level-designer-environment-artist-part1.php</link>
-		<link>http://narrativedesignporn.csongorb.com/characterenvironmentdesign.html</link>
+		<link>https://www.worldofleveldesign.com/categories/level_design_tutorials/how-to-plan-level-designs-game-environments-workflow.php</link>
+		<link>https://www.worldofleveldesign.com/categories/level_design_tutorials/becoming-level-designer-environment-artist-part1.php</link>
+		<link>https://csongorb.github.io/narrativedesigncards/?card=characterenvironmentdesign</link>
 	</card>
 	<card>
 		<cardCategoryId>3</cardCategoryId>
@@ -642,12 +640,12 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>4</cardCategoryId>
 		<title forcedFilename="anyleveleditor">any/level editor</title>
 		<text>related theories, methods, disciplines? # similarities to game engines? # modding? # how does it saparate game and level design?</text>
-		<link>http://distractionware.com/forum/index.php?topic=322.0</link> <!-- vvvvvv -->
+		<link>https://distractionware.com/forum/index.php?topic=322.0</link> <!-- vvvvvv -->
 		<link>http://www.elmerproductions.com/sp/software.html#cc_editsoftware</link> <!-- Supaplex -->
-		<link>http://www.popuw.com/editors.html</link> <!-- Prince of Persia 1 -->
+		<link>https://www.popuw.com/editors.html</link> <!-- Prince of Persia 1 -->
 		<link>https://www.wikiwand.com/en/List_of_level_editors</link>
-		<link>http://doom.wikia.com/wiki/Editors</link>
-		<link>http://store.steampowered.com/tag/en/Level%20Editor</link>
+		<link>https://doom.wikia.com/wiki/Editors</link>
+		<link>https://store.steampowered.com/tag/en/Level%20Editor</link>
 		<link>https://itch.io/games/tag-level-editor</link>
 		<link>https://www.puzzlescript.net/</link>
 		<link>https://ledoux.itch.io/bitsy</link>
@@ -659,7 +657,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>4</cardCategoryId>
 		<title>any game</title>
 		<text>related theories, methods, disciplines? # does it have an editor?</text>
-		<link>http://www.mobygames.com</link>
+		<link>https://www.mobygames.com</link>
 		<link>https://www.kickstarter.com/projects/2093152267/the-metagame-discuss/posts/668406</link>
 	</card>
 	<card>
@@ -667,9 +665,9 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title>doom</title>
 		<text>related theories, methods, disciplines? # history?</text>
 		<link>https://zdoom.org</link> <!-- modern era doom -->
-		<link>http://slade.mancubus.net</link> <!-- level editor -->
-		<link>http://vectorpoem.com/doom/</link>
-		<link>http://vectorpoem.com/news/?p=74</link> <!-- Lessons from Doom -->
+		<link>https://slade.mancubus.net/</link> <!-- level editor -->
+		<link>https://jplebreton.com/doom/</link>
+		<link>https://jplebreton.com/old_blog/2010-02-28_doom/</link> <!-- Lessons from Doom -->
 		<link>https://www.youtube.com/watch?v=ygp4-kmjpzI</link> <!-- "Devs Play" S01E05 - Doom -->
 		<link>https://en.wikipedia.org/wiki/Doom_WAD</link>
 		<link>https://en.wikipedia.org/wiki/Doom_(1993_video_game)</link>
@@ -678,7 +676,6 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://doomwiki.org/wiki/DoomEd</link>
 		<link>https://www.gdcvault.com/play/1026860/The-Early-Days-of-Id</link>
 		<link>https://eev.ee/blog/2015/12/19/you-should-make-a-doom-level-part-1/</link>
-		<link>https://www.youtube.com/watch?v=ygp4-kmjpzI&#x26;list=PLIhLvue17Sd6u2akeZZdYVBxNtfWZPm5W&#x26;index=13</link> <!-- "Devs Play" S01E05 - Doom (Part 1 - Intro) - incl. Playlist -->
 	</card>
 	<card>
 		<cardCategoryId>4</cardCategoryId>
@@ -686,10 +683,10 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<text>related theories, methods, disciplines?</text>
 		<link>https://en.wikipedia.org/wiki/Non-Euclidean_geometry</link>
 		<link>https://www.youtube.com/watch?v=lFEIUcXCEvI</link> <!-- Bitwise: How do non-euclidean games work? -->
-		<link>http://www.gdcvault.com/play/1023553/Level-Design-Workshop-Level-Design</link> <!-- William Chyr:  Level Design in Impossible Geometry -->
-		<link>http://www.geometrygames.org/</link>
+		<link>https://www.gdcvault.com/play/1023553/Level-Design-Workshop-Level-Design</link> <!-- William Chyr:  Level Design in Impossible Geometry -->
+		<link>https://www.geometrygames.org/</link>
 		<link>https://books.google.de/books/about/The_Shape_of_Space.html?id=Lurp6nB4LtQC</link>
-		<link>http://gdcvault.com/play/1020776/Antichamber-An-Overnight-Success-Seven</link>
+		<link>https://gdcvault.com/play/1020776/Antichamber-An-Overnight-Success-Seven</link>
 	</card>
 	<card>
 		<cardCategoryId>4</cardCategoryId>
@@ -697,7 +694,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<text>related theories, methods, disciplines?</text>
 	 	<link>https://www.gamedeveloper.com/design/rewarding-the-players-valve-on-i-portal-2-i-</link>
   		<link>https://www.gamedeveloper.com/design/synthesizing-i-portal-2-i-</link>
-	 	<link>http://www.rockpapershotgun.com/2013/09/20/untold-riches-an-analysis-of-portals-expressive-level-design/</link>
+	 	<link>https://www.rockpapershotgun.com/2013/09/20/untold-riches-an-analysis-of-portals-expressive-level-design/</link>
 		<link>https://gdcvault.com/play/1015821/Creating-a-Sequel-to-a</link>
 		<link>https://www.youtube.com/watch?v=RMARygUzmls</link> <!-- Patrick Holleman: LD Analysis Portal 2 -->
 		<link>https://www.youtube.com/watch?v=yK1mRhyeCzA</link> <!-- Shesez: Out of Bounds Secrets | Portal - Boundary Break -->
@@ -709,27 +706,27 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title>de_dust</title>
 		<text>related theories, methods, disciplines? # skills &#x26; competition? # fun? # structure &#x26; flow? # why so popular?</text>
 		<link>https://arambartholl.com/dust/</link>
- 		<link>http://www.johnsto.co.uk/design/making_dust</link>
-		<link>http://www.ign.com/articles/2012/02/03/the-evolution-of-counter-strikes-dedust</link>
-		<link>http://www.johnsto.co.uk/design/making_dust2</link>
+ 		<link>https://www.johnsto.co.uk/design/making_dust</link>
+		<link>https://www.ign.com/articles/2012/02/03/the-evolution-of-counter-strikes-dedust</link>
+		<link>https://www.johnsto.co.uk/design/making_dust2</link>
 	</card>
 	<card>
 		<cardCategoryId>4</cardCategoryId>
 		<title forcedFilename="cratesandbarrels">crates/&#x26; barrels</title>
 		<text>classification? # history? # why so many? # examples?</text>
-		<link>http://www.oldmanmurray.com/features/39.html</link>
-		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/CrateExpectations</link>
+		<link>https://www.oldmanmurray.com/features/39.html</link>
+		<link>https://tvtropes.org/pmwiki/pmwiki.php/Main/CrateExpectations</link>
 		<link>https://arambartholl.com/dust-winter-prison/</link>
-		<link>http://www.cracked.com/article_15748_a-gamers-manifesto.html</link>
-		<link>http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplodingBarrels</link>
+		<link>https://www.cracked.com/article_15748_a-gamers-manifesto.html</link>
+		<link>https://tvtropes.org/pmwiki/pmwiki.php/Main/ExplodingBarrels</link>
 	</card>
 	<card>
 		<cardCategoryId>4</cardCategoryId>
 		<title forcedFilename="cuttherope">cut/the rope</title>
 		<text>related theories, methods, disciplines? # learning? # difficulty? # evolution?</text>
-		<link>http://cuttherope.wikia.com/wiki/Cardboard_Box</link>
+		<link>https://cuttherope.wikia.com/wiki/Cardboard_Box</link>
 		<link>http://twvideo01.ubm-us.net/o1/vault/gdc2012/slides/Design%20Track/Voinov_Semyon_Level_Design_Casestudies.pdf</link>
-		<link>http://en.wikipedia.org/wiki/Cut_the_Rope</link>
+		<link>https://en.wikipedia.org/wiki/Cut_the_Rope</link>
 		<link>https://web.archive.org/web/20191109081128/https://www.cuttheropefan.com/2011/07/changes-to-level-design-in-cut-rope.html</link>
 		<link>https://gdcvault.com/play/1015570/Level-Design-Case-Studies-Trainyard</link>
 	</card>
@@ -738,8 +735,8 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<title>gone home</title>
 		<text>what is the story of gone home? # related theories, methods, disciplines? # game writing?</text>
 		<link>texts/playandtalk_gonehome.pdf</link>
-		<link>http://www.youtube.com/watch?v=ILO-kzVEXj4</link> <!-- Gone Home: Making Stories with Steve Gaynor & Lucy Prebble -->
-		<link>http://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
+		<link>https://www.youtube.com/watch?v=ILO-kzVEXj4</link> <!-- Gone Home: Making Stories with Steve Gaynor & Lucy Prebble -->
+		<link>https://eat-games.tumblr.com/post/74979301279/interview-steve-gaynor</link>
 		<link>https://gdcvault.com/play/1020376/Why-Is-Gone-Home-a</link> <!-- Gaynor: Why gone home is a game -->
 		<link>https://gdcvault.com/play/1020479/The-Programming-of-Gone-Home</link>
 		<link>https://gdcvault.com/play/1020376/Why-Is-Gone-Home-a</link> <!-- ...a Game? -->
@@ -749,9 +746,9 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>4</cardCategoryId>
 		<title>spelunky</title>
 		<text>what is the story of the game? # related theories, methods, disciplines? # replayability? # daily challenges?</text>
-		<link>http://spelunkyworld.com/dailychallenge/</link>
-		<link>http://spelunky.wikia.com/wiki/Spelunky_Wiki</link>
-		<link>http://www.rockpapershotgun.com/2013/10/22/geometry-of-death-spelunkys-level-generation-explained/</link>
+		<link>https://spelunkyworld.com/dailychallenge/</link>
+		<link>https://spelunky.wikia.com/wiki/Spelunky_Wiki</link>
+		<link>https://www.rockpapershotgun.com/2013/10/22/geometry-of-death-spelunkys-level-generation-explained/</link>
 		<link>https://www.gamedeveloper.com/design/a-spelunky-game-design-analysis---pt-2</link>
 		<link>https://www.gamedeveloper.com/design/the-understated-genius-of-the-i-spelunky-i-daily-challenge</link>
 		<link>https://web.archive.org/web/20170709012320/https://spelunkyexplorersclub.com/</link>
@@ -774,19 +771,19 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<cardCategoryId>4</cardCategoryId>
 		<title>uncharted 4</title>
 		<text>related theories, methods, disciplines?</text>
-		<link>http://www.gamesindustry.biz/articles/2016-05-05-critical-consensus-uncharted-4-a-real-treasure</link>
+		<link>https://www.gamesindustry.biz/articles/2016-05-05-critical-consensus-uncharted-4-a-real-treasure</link>
 		<link>https://www.wikiwand.com/en/Uncharted_4:_A_Thief%27s_End</link>
-		<link>http://uncharted.wikia.com/wiki/Uncharted_4:_A_Thief%27s_End</link>
+		<link>https://uncharted.wikia.com/wiki/Uncharted_4:_A_Thief%27s_End</link>
 		<link>https://www.youtube.com/watch?v=6rTn8sj24wA</link> <!-- The Making of Uncharted 4 -->
 		<link>https://www.youtube.com/watch?v=lVzmqdy0tz4</link> <!-- Shesez: Out of Bounds Secrets | Uncharted 4 - Boundary Break -->
 		<link>https://kotaku.com/highlights-of-two-uncharted-4-levels-one-traditional-a-1775514454</link>
 		<link>https://www.gnomon.edu/blog/discover-naughty-dog-s-environment-art-workflow-for-uncharted-4</link>
-		<link>http://gamingbolt.com/uncharted-4s-open-level-design-impacts-its-gameplay-in-a-big-way</link>
-		<link>http://www.gamesindustry.biz/articles/2016-11-04-uncharted-4-not-as-scripted-as-you-might-think</link>
+		<link>https://gamingbolt.com/uncharted-4s-open-level-design-impacts-its-gameplay-in-a-big-way</link>
+		<link>https://www.gamesindustry.biz/articles/2016-11-04-uncharted-4-not-as-scripted-as-you-might-think</link>
 		<link>https://kotaku.com/the-art-of-uncharted-4-1777213424</link>
 		<link>https://kotaku.com/uncharted-4s-climbing-reviewed-1775667916</link>
 		<link>https://kotaku.com/a-technical-look-at-what-makes-uncharted-4-so-pretty-1775588247</link>
-		<link>http://allenchou.net/2016/05/a-brain-dump-of-what-i-worked-on-for-uncharted-4/</link>
+		<link>https://allenchou.net/2016/05/a-brain-dump-of-what-i-worked-on-for-uncharted-4/</link>
 		<link>https://www.youtube.com/watch?v=TW7T9s1nYiU</link> <!-- Lemarchand: Making Your Games Better with Psychology and Playtesting, the Uncharted Way -->
 	</card>
 	<card>
@@ -802,7 +799,7 @@ A MAZE. Indie Connect Conference 2012 - Vlambeer: Sensible Nonsense	-->
 		<link>https://knoef.info/trophy-guides/ps4-guides/lonely-mountains-downhill-trophy-guide/</link>
 		<link>https://www.ign.com/videos/lonely-mountains-downhill-developers-react-to-27-minute-speedrun</link>
 		<link>https://eggplant.show/63-finding-your-own-path-with-daniel-helbig</link>
-		<link>https://leveldesignporn.csongorb.org/lonelymountains.html</link>
+		<link>https://csongorb.github.io/leveldesigncards/?card=lmd</link>
 	</card>
 
 	<card>
